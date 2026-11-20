@@ -1,0 +1,5028 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.11 87bfad18",
+  "osm3s": {
+    "timestamp_osm_base": "2026-06-01T08:52:28Z",
+    "timestamp_areas_base": "2026-06-01T08:52:28Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 64776484,
+  "tags": {
+    "admin_centre:postal_code": "38122",
+    "capital": "4",
+    "ele": "194",
+    "gfoss_id": "3069",
+    "loc_name": "Trènt",
+    "name": "Trento",
+    "name:af": "Trente",
+    "name:ar": "ترينتو",
+    "name:be": "Трэнта",
+    "name:bg": "Тренто",
+    "name:ca": "Trento",
+    "name:ce": "Тренто",
+    "name:cim": "Tria",
+    "name:cs": "Trident",
+    "name:cv": "Тренто",
+    "name:de": "Trient",
+    "name:el": "Τρέντο",
+    "name:fa": "ترنتو",
+    "name:fr": "Trente",
+    "name:fur": "Trent",
+    "name:fy": "Trente",
+    "name:ga": "Trionta",
+    "name:he": "טרנטו",
+    "name:hr": "Trident",
+    "name:hy": "Տրենտո",
+    "name:it": "Trento",
+    "name:ja": "トレント",
+    "name:ka": "ტრენტო",
+    "name:kk": "Тренто",
+    "name:kn": "ಟ್ರೆಂಟೋ",
+    "name:ko": "트렌토",
+    "name:la": "tridentum",
+    "name:lld": "Trent",
+    "name:lt": "Trentas",
+    "name:mhn": "Trea't",
+    "name:mk": "Тренто",
+    "name:ml": "ട്രെൻ്റോ",
+    "name:nl": "Trente",
+    "name:oc": "Trent",
+    "name:os": "Тренто",
+    "name:pl": "Trydent",
+    "name:ru": "Тренто",
+    "name:sk": "Trident",
+    "name:sr": "Тренто",
+    "name:th": "เตรนโต",
+    "name:tt": "Тренто",
+    "name:uk": "Тренто",
+    "name:ur": "ترینتو",
+    "name:zh": "特伦托",
+    "place": "city",
+    "population": "117317",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q3376",
+    "wikipedia": "it:Trento"
+  }
+},
+{
+  "type": "node",
+  "id": 64776488,
+  "tags": {
+    "gfoss_id": "2881",
+    "name": "Ponte Arche",
+    "place": "village",
+    "population": "765",
+    "wikidata": "Q3907951",
+    "wikipedia": "it:Ponte Arche"
+  }
+},
+{
+  "type": "node",
+  "id": 64776492,
+  "tags": {
+    "alt_name:mhn": "Burng",
+    "gfoss_id": "2887",
+    "loc_name": "Borgo",
+    "name": "Borgo Valsugana",
+    "name:cim": "Burge",
+    "name:it": "Borgo Valsugana",
+    "name:mhn": "Bur",
+    "old_name:de": "Burg im Suganertal",
+    "place": "town",
+    "population": "6945",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q246524",
+    "wikipedia": "it:Borgo Valsugana"
+  }
+},
+{
+  "type": "node",
+  "id": 64776494,
+  "tags": {
+    "gfoss_id": "2888",
+    "loc_name": "Bosentìn",
+    "name": "Bosentino",
+    "place": "village",
+    "population": "728",
+    "wikidata": "Q246579",
+    "wikipedia": "it:Bosentino"
+  }
+},
+{
+  "type": "node",
+  "id": 64776512,
+  "tags": {
+    "admin_centre:postal_code": "38030",
+    "gfoss_id": "2956",
+    "name": "Verla",
+    "place": "village",
+    "population": "788",
+    "wikidata": "Q18483636"
+  }
+},
+{
+  "type": "node",
+  "id": 64776518,
+  "tags": {
+    "admin_centre:postal_code": "38040",
+    "gfoss_id": "2972",
+    "name": "Lases",
+    "name:de": "Lazes",
+    "place": "village",
+    "population": "539",
+    "wikidata": "Q18480227"
+  }
+},
+{
+  "type": "node",
+  "id": 64776529,
+  "tags": {
+    "name": "Ruffré",
+    "name:it": "Ruffré",
+    "name:lld": "Rufré",
+    "old_name:de": "Ruffreit",
+    "place": "village",
+    "population": "336",
+    "wikidata": "Q301386",
+    "wikipedia": "it:Ruffré-Mendola"
+  }
+},
+{
+  "type": "node",
+  "id": 64776536,
+  "tags": {
+    "name": "Marcena",
+    "name:it": "Marcena",
+    "name:lld": "Marcéna",
+    "place": "village",
+    "population": "190",
+    "wikidata": "Q18480538"
+  }
+},
+{
+  "type": "node",
+  "id": 64776541,
+  "tags": {
+    "alt_name:de": "St. Urschl",
+    "gfoss_id": "3032",
+    "name": "Sant'Orsola Terme",
+    "name:de": "Eichberg",
+    "name:it": "Sant'Orsola Terme",
+    "name:mhn": "Oachperg",
+    "place": "village",
+    "population": "906",
+    "reg_name": "Sant'Orsola",
+    "wikidata": "Q18482837"
+  }
+},
+{
+  "type": "node",
+  "id": 64776544,
+  "tags": {
+    "name": "Vigo di Ton",
+    "name:it": "Vigo di Ton",
+    "name:lld": "Vic",
+    "place": "village",
+    "population": "585",
+    "wikidata": "Q18483694"
+  }
+},
+{
+  "type": "node",
+  "id": 64776551,
+  "tags": {
+    "gfoss_id": "3080",
+    "loc_name": "Vignola",
+    "name": "Vignola",
+    "old_name:de": "Walzburg",
+    "place": "village",
+    "population": "22",
+    "wikidata": "Q48808425"
+  }
+},
+{
+  "type": "node",
+  "id": 64776554,
+  "tags": {
+    "gfoss_id": "3077",
+    "name": "Vermiglio",
+    "name:it": "Vermiglio",
+    "name:lld": "Verméi",
+    "place": "village",
+    "population": "1856",
+    "source": "geodati.gfoss.it"
+  }
+},
+{
+  "type": "node",
+  "id": 64776555,
+  "tags": {
+    "gfoss_id": "2869",
+    "name": "Albiano",
+    "place": "village",
+    "population": "1447",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022082"
+  }
+},
+{
+  "type": "node",
+  "id": 64776561,
+  "tags": {
+    "gfoss_id": "3084",
+    "loc_name": "Gné",
+    "name": "Agnedo",
+    "place": "village",
+    "wikidata": "Q86686354"
+  }
+},
+{
+  "type": "node",
+  "id": 64776563,
+  "tags": {
+    "gfoss_id": "2876",
+    "loc_name": "Bedól",
+    "name": "Bedollo",
+    "place": "village",
+    "population": "1397",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q33424044"
+  }
+},
+{
+  "type": "node",
+  "id": 64776567,
+  "tags": {
+    "gfoss_id": "2894",
+    "name": "Caderzone Terme",
+    "place": "village",
+    "population": "602",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q49281689"
+  }
+},
+{
+  "type": "node",
+  "id": 64776574,
+  "tags": {
+    "gfoss_id": "2898",
+    "loc_name": "Caudés",
+    "name": "Caldes",
+    "name:it": "Caldes",
+    "name:lld": "Cjaudés",
+    "place": "village",
+    "population": "1040",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023357"
+  }
+},
+{
+  "type": "node",
+  "id": 64776576,
+  "tags": {
+    "gfoss_id": "2899",
+    "loc_name": "Caldonazo",
+    "name": "Caldonazzo",
+    "name:cim": "Kalnètsch",
+    "name:it": "Caldonazzo",
+    "old_name:de": "Gallnötsch",
+    "place": "village",
+    "population": "2766",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023360"
+  }
+},
+{
+  "type": "node",
+  "id": 64776579,
+  "tags": {
+    "alt_name:lld": "Cjagnòu",
+    "gfoss_id": "2895",
+    "loc_name": "Cignòu",
+    "name": "Cagnò",
+    "name:it": "Cagnò",
+    "name:lld": "Cignòu",
+    "old_name:de": "Kanau",
+    "place": "village",
+    "population": "333",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q256842",
+    "wikipedia": "it:Cagnò"
+  }
+},
+{
+  "type": "node",
+  "id": 64776581,
+  "tags": {
+    "loc_name": "Calavìn",
+    "name": "Calavino",
+    "place": "village",
+    "population": "824",
+    "wikidata": "Q257035",
+    "wikipedia": "it:Calavino"
+  }
+},
+{
+  "type": "node",
+  "id": 64776584,
+  "tags": {
+    "admin_centre:postal_code": "38050",
+    "gfoss_id": "2903",
+    "name": "Canal San Bovo",
+    "place": "village",
+    "population": "1530",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023554"
+  }
+},
+{
+  "type": "node",
+  "id": 64776586,
+  "tags": {
+    "gfoss_id": "2904",
+    "name": "Canazei - Cianacei",
+    "name:de": "Kanzenei",
+    "name:it": "Canazei",
+    "name:lld": "Cianacei",
+    "place": "village",
+    "population": "1818",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q258031",
+    "wikipedia": "en:Canazei"
+  }
+},
+{
+  "type": "node",
+  "id": 64776588,
+  "tags": {
+    "gfoss_id": "2901",
+    "name": "Campitello di Fassa - Ciampedel",
+    "name:it": "Campitello di Fassa",
+    "name:lld": "Ciampedel",
+    "place": "village",
+    "population": "732",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023489"
+  }
+},
+{
+  "type": "node",
+  "id": 64776591,
+  "tags": {
+    "alt_name:lld": "Ciampdadén",
+    "gfoss_id": "2902",
+    "name": "Campodenno",
+    "name:it": "Campodenno",
+    "name:lld": "Ciamdadén",
+    "place": "village",
+    "population": "1436",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023506"
+  }
+},
+{
+  "type": "node",
+  "id": 64776593,
+  "tags": {
+    "gfoss_id": "2912",
+    "loc_name": "Castèl Tasìn",
+    "name": "Castello Tesino",
+    "place": "village",
+    "population": "1442",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024249"
+  }
+},
+{
+  "type": "node",
+  "id": 64776596,
+  "tags": {
+    "gfoss_id": "2909",
+    "name": "Castel Condino",
+    "place": "village",
+    "population": "233",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024091"
+  }
+},
+{
+  "type": "node",
+  "id": 64776599,
+  "tags": {
+    "gfoss_id": "2907",
+    "name": "Carisolo",
+    "place": "village",
+    "population": "918",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023774"
+  }
+},
+{
+  "type": "node",
+  "id": 64776600,
+  "tags": {
+    "gfoss_id": "2905",
+    "name": "Capriana",
+    "place": "village",
+    "population": "582",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023687"
+  }
+},
+{
+  "type": "node",
+  "id": 64776603,
+  "tags": {
+    "alt_name:lld": "Cuòret",
+    "gfoss_id": "2931",
+    "name": "Coredo",
+    "name:it": "Coredo",
+    "name:lld": "Còret",
+    "old_name:de": "Koreth",
+    "place": "village",
+    "population": "1544",
+    "wikidata": "Q30025092",
+    "wikipedia": "it:Coredo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776605,
+  "tags": {
+    "gfoss_id": "2921",
+    "name": "Cimego",
+    "place": "village",
+    "population": "376",
+    "wikidata": "Q267713",
+    "wikipedia": "it:Cimego"
+  }
+},
+{
+  "type": "node",
+  "id": 64776608,
+  "tags": {
+    "gfoss_id": "2915",
+    "name": "Cavareno",
+    "name:it": "Cavareno",
+    "name:lld": "Ciavarén",
+    "place": "village",
+    "population": "923",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024441"
+  }
+},
+{
+  "type": "node",
+  "id": 64776611,
+  "tags": {
+    "ele": "1000",
+    "gfoss_id": "2914",
+    "name": "Cavalese",
+    "name:de": "Gablöss",
+    "name:it": "Cavalese",
+    "name:ru": "Кавалезе",
+    "place": "village",
+    "population": "4100",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q265227",
+    "wikipedia": "it:Cavalese"
+  }
+},
+{
+  "type": "node",
+  "id": 64776612,
+  "tags": {
+    "gfoss_id": "2974",
+    "name": "Malé",
+    "name:it": "Malé",
+    "name:lld": "Malé",
+    "place": "village",
+    "population": "2138",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30027134"
+  }
+},
+{
+  "type": "node",
+  "id": 64776615,
+  "tags": {
+    "gfoss_id": "2969",
+    "name": "Lisignago",
+    "place": "village",
+    "population": "443",
+    "wikidata": "Q294734",
+    "wikipedia": "it:Lisignago"
+  }
+},
+{
+  "type": "node",
+  "id": 64776617,
+  "tags": {
+    "alt_name": "Peio Paese",
+    "gfoss_id": "3000",
+    "loc_name": "Pièj",
+    "name": "Peio",
+    "name:it": "Peio",
+    "name:lld": "Pej",
+    "place": "village",
+    "population": "1843",
+    "reg_name": "Pejo",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q33471758",
+    "wikipedia": "it:Peio Paese"
+  }
+},
+{
+  "type": "node",
+  "id": 64776619,
+  "tags": {
+    "gfoss_id": "2932",
+    "name": "Croviana",
+    "name:it": "Croviana",
+    "name:lld": "Croviànå",
+    "place": "village",
+    "population": "597",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30025305"
+  }
+},
+{
+  "type": "node",
+  "id": 64776620,
+  "tags": {
+    "admin_centre:postal_code": "38050",
+    "gfoss_id": "2979",
+    "loc_name": "Medan",
+    "name": "Mezzano",
+    "place": "village",
+    "population": "1638",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30027501"
+  }
+},
+{
+  "type": "node",
+  "id": 64776621,
+  "tags": {
+    "gfoss_id": "2978",
+    "name": "Mezzana",
+    "name:it": "Mezzana",
+    "name:lld": "Mezanå",
+    "place": "village",
+    "population": "875",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30027492"
+  }
+},
+{
+  "type": "node",
+  "id": 64776622,
+  "tags": {
+    "gfoss_id": "2976",
+    "name": "Massimeno",
+    "place": "village",
+    "population": "138",
+    "population:date": "2025-07-31",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30027362"
+  }
+},
+{
+  "type": "node",
+  "id": 64776623,
+  "tags": {
+    "gfoss_id": "2975",
+    "name": "Malosco",
+    "name:it": "Malosco",
+    "name:lld": "Malós-c",
+    "old_name:de": "Maluschg",
+    "place": "village",
+    "population": "373",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q295070",
+    "wikipedia": "it:Malosco"
+  }
+},
+{
+  "type": "node",
+  "id": 64776627,
+  "tags": {
+    "gfoss_id": "2994",
+    "loc_name": "Ospedaleto",
+    "name": "Ospedaletto",
+    "place": "village",
+    "population": "832",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028444"
+  }
+},
+{
+  "type": "node",
+  "id": 64776629,
+  "tags": {
+    "gfoss_id": "2995",
+    "name": "Ossana",
+    "name:it": "Ossana",
+    "name:lld": "Osànå",
+    "place": "village",
+    "population": "765",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028452"
+  }
+},
+{
+  "type": "node",
+  "id": 64776630,
+  "tags": {
+    "loc_name": "Padrignón",
+    "name": "Padergnone",
+    "place": "village",
+    "population": "714",
+    "reg_name": "Padergnón",
+    "wikidata": "Q297224",
+    "wikipedia": "it:Padergnone"
+  }
+},
+{
+  "type": "node",
+  "id": 64776634,
+  "tags": {
+    "gfoss_id": "2998",
+    "name": "Panchià",
+    "name:de": "Weißbach",
+    "name:it": "Panchià",
+    "place": "village",
+    "population": "682",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028588"
+  }
+},
+{
+  "type": "node",
+  "id": 64776635,
+  "tags": {
+    "gfoss_id": "2981",
+    "loc_name": "Mezombàrt",
+    "name": "Mezzolombardo",
+    "name:it": "Mezzolombardo",
+    "name:lld": "Mezlombàrt",
+    "old_name:de": "Welschmetz",
+    "place": "village",
+    "population": "7067",
+    "reg_name": "Mezlombàrt",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q295602",
+    "wikipedia": "it:Mezzolombardo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776637,
+  "tags": {
+    "name": "Moena",
+    "name:de": "Moyen",
+    "name:it": "Moena",
+    "name:lld": "Moena",
+    "name:ru": "Моена",
+    "place": "village",
+    "population": "2602",
+    "wikidata": "Q30027591",
+    "wikimedia_commons": "Category:Moena (town)",
+    "wikipedia": "de:Moena"
+  }
+},
+{
+  "type": "node",
+  "id": 64776641,
+  "tags": {
+    "name": "Nanno",
+    "name:it": "Nanno",
+    "name:lld": "Nan",
+    "place": "village",
+    "population": "456",
+    "wikidata": "Q296430",
+    "wikipedia": "it:Nanno"
+  }
+},
+{
+  "type": "node",
+  "id": 64776644,
+  "tags": {
+    "alt_name:lld": "Ruòu",
+    "gfoss_id": "3016",
+    "name": "Revò",
+    "name:bar": "Rawau",
+    "name:it": "Revò",
+    "name:lld": "Rvòu",
+    "old_name:de": "Nußdorf am Nonsberg",
+    "place": "village",
+    "population": "1115",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q300511",
+    "wikipedia": "it:Revò"
+  }
+},
+{
+  "type": "node",
+  "id": 64776647,
+  "tags": {
+    "gfoss_id": "3019",
+    "name": "Romeno",
+    "name:it": "Romeno",
+    "name:lld": "Romén",
+    "old_name:de": "Romein",
+    "place": "village",
+    "population": "1243",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30029553"
+  }
+},
+{
+  "type": "node",
+  "id": 64776649,
+  "tags": {
+    "alt_name:de": "Welschmichel",
+    "gfoss_id": "3031",
+    "loc_name": "Samichél",
+    "name": "San Michele all'Adige",
+    "name:de": "St. Michael an der Etsch",
+    "name:it": "San Michele all'Adige",
+    "place": "village",
+    "population": "3863",
+    "reg_name": "San Michél",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q301866",
+    "wikipedia": "de:San Michele all’Adige"
+  }
+},
+{
+  "type": "node",
+  "id": 64776653,
+  "tags": {
+    "gfoss_id": "3034",
+    "name": "Sarnonico",
+    "name:it": "Sarnonico",
+    "name:lld": "Sarnónec",
+    "old_name:de": "Sarnunich",
+    "place": "village",
+    "population": "662",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030426"
+  }
+},
+{
+  "type": "node",
+  "id": 64776654,
+  "tags": {
+    "gfoss_id": "2999",
+    "loc_name": "Ronž-Cianìs",
+    "name": "Ronzo-Chienis",
+    "place": "village",
+    "population": "1010",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30029583"
+  }
+},
+{
+  "type": "node",
+  "id": 64776656,
+  "tags": {
+    "gfoss_id": "3002",
+    "name": "Pelugo",
+    "place": "village",
+    "population": "351",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028691"
+  }
+},
+{
+  "type": "node",
+  "id": 64776659,
+  "tags": {
+    "alt_name:de": "Persen",
+    "elevation": "482",
+    "gfoss_id": "3003",
+    "loc_name": "Pergen",
+    "name": "Pergine Valsugana",
+    "name:cim": "Pèrsan",
+    "name:de": "Fersen im Suganertal",
+    "name:es": "Pergine Valsugana",
+    "name:it": "Pergine Valsugana",
+    "name:mhn": "Persn",
+    "place": "town",
+    "population": "21280",
+    "reg_name": "Perzen",
+    "short_name": "Pergine",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q298424",
+    "wikipedia": "it:Pergine Valsugana"
+  }
+},
+{
+  "type": "node",
+  "id": 64776660,
+  "tags": {
+    "name": "Preore",
+    "place": "village",
+    "population": "357",
+    "wikidata": "Q300104",
+    "wikipedia": "it:Preore"
+  }
+},
+{
+  "type": "node",
+  "id": 64776663,
+  "tags": {
+    "alt_name:lld": "Sporpìciol",
+    "gfoss_id": "3045",
+    "name": "Sporminore",
+    "name:it": "Sporminore",
+    "name:lld": "Sporpìcol",
+    "place": "village",
+    "population": "680",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030897"
+  }
+},
+{
+  "type": "node",
+  "id": 64776666,
+  "tags": {
+    "gfoss_id": "3041",
+    "name": "Sover",
+    "place": "village",
+    "population": "904",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030841"
+  }
+},
+{
+  "type": "node",
+  "id": 64776667,
+  "tags": {
+    "gfoss_id": "3049",
+    "name": "Strigno",
+    "old_name:de": "Striegen",
+    "place": "village",
+    "population": "1377",
+    "wikidata": "Q326780",
+    "wikipedia": "it:Strigno"
+  }
+},
+{
+  "type": "node",
+  "id": 64776672,
+  "tags": {
+    "gfoss_id": "3037",
+    "name": "Sfruz",
+    "name:it": "Sfruz",
+    "name:lld": "Sfruz",
+    "old_name:de": "Sfrutz",
+    "place": "village",
+    "population": "275",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030692"
+  }
+},
+{
+  "type": "node",
+  "id": 64776677,
+  "tags": {
+    "alt_name:lld": "Soréga",
+    "gfoss_id": "3040",
+    "name": "Soraga",
+    "name:de": "Überwasser",
+    "name:it": "Soraga",
+    "name:lld": "Soraga",
+    "place": "village",
+    "population": "673",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030808"
+  }
+},
+{
+  "type": "node",
+  "id": 64776679,
+  "tags": {
+    "gfoss_id": "3039",
+    "name": "Smarano",
+    "name:it": "Smarano",
+    "name:lld": "Smaran",
+    "old_name:de": "Smarein",
+    "place": "village",
+    "population": "502",
+    "wikidata": "Q305653",
+    "wikipedia": "it:Smarano"
+  }
+},
+{
+  "type": "node",
+  "id": 64776680,
+  "tags": {
+    "admin_centre:postal_code": "38054",
+    "gfoss_id": "3065",
+    "name": "Tonadico",
+    "place": "village",
+    "population": "1223",
+    "wikidata": "Q30031147",
+    "wikipedia": "it:Tonadico"
+  }
+},
+{
+  "type": "node",
+  "id": 64776683,
+  "tags": {
+    "name": "Tiarno di Sopra",
+    "place": "village",
+    "population": "984",
+    "wikidata": "Q753835",
+    "wikipedia": "it:Tiarno di Sopra"
+  }
+},
+{
+  "type": "node",
+  "id": 64776685,
+  "tags": {
+    "name": "Tuenno",
+    "name:it": "Tuenno",
+    "name:lld": "Tuèn",
+    "place": "village",
+    "population": "2349",
+    "wikidata": "Q222063",
+    "wikipedia": "it:Tuenno"
+  }
+},
+{
+  "type": "node",
+  "id": 64776687,
+  "tags": {
+    "gfoss_id": "3066",
+    "loc_name": "Traozén",
+    "name": "Torcegno",
+    "place": "village",
+    "population": "679",
+    "reg_name": "Torzén",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031154"
+  }
+},
+{
+  "type": "node",
+  "id": 64776690,
+  "tags": {
+    "gfoss_id": "3054",
+    "loc_name": "Tena",
+    "name": "Tenna",
+    "name:cim": "Tenn",
+    "name:it": "Tenna",
+    "place": "village",
+    "population": "850",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031045"
+  }
+},
+{
+  "type": "node",
+  "id": 64776692,
+  "tags": {
+    "gfoss_id": "3050",
+    "name": "Taio",
+    "name:it": "Taio",
+    "name:lld": "Tai",
+    "old_name:de": "Thayl",
+    "place": "village",
+    "population": "1306",
+    "wikidata": "Q326814",
+    "wikipedia": "it:Taio"
+  }
+},
+{
+  "type": "node",
+  "id": 64776693,
+  "tags": {
+    "gfoss_id": "3059",
+    "name": "Terzolas",
+    "name:it": "Terzolas",
+    "name:lld": "Tergiolàs",
+    "place": "village",
+    "population": "558",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031091"
+  }
+},
+{
+  "type": "node",
+  "id": 64776696,
+  "tags": {
+    "gfoss_id": "3055",
+    "loc_name": "Ten",
+    "name": "Tenno",
+    "old_name:de": "Thenn",
+    "place": "village",
+    "population": "1735",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031046"
+  }
+},
+{
+  "type": "node",
+  "id": 64776698,
+  "tags": {
+    "gfoss_id": "3089",
+    "name": "Ziano di Fiemme",
+    "name:de": "Zanonberg",
+    "name:it": "Ziano di Fiemme",
+    "place": "village",
+    "population": "1550",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031990"
+  }
+},
+{
+  "type": "node",
+  "id": 64776705,
+  "tags": {
+    "gfoss_id": "3087",
+    "loc_name": "'Olam",
+    "name": "Volano",
+    "name:uk": "Волано",
+    "place": "village",
+    "population": "2801",
+    "reg_name": "Volàn",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q328098",
+    "wikipedia": "it:Volano (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776707,
+  "tags": {
+    "alt_name:lld": "Vervòu",
+    "gfoss_id": "3078",
+    "name": "Vervò",
+    "name:it": "Vervò",
+    "name:lld": "Vervò",
+    "old_name:de": "Werfs",
+    "place": "village",
+    "population": "416",
+    "wikidata": "Q327795",
+    "wikipedia": "it:Vervò"
+  }
+},
+{
+  "type": "node",
+  "id": 64776710,
+  "tags": {
+    "loc_name": "Vezàn",
+    "name": "Vezzano",
+    "place": "village",
+    "population": "1239",
+    "wikidata": "Q327832",
+    "wikipedia": "it:Vezzano (Vallelaghi)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776712,
+  "tags": {
+    "gfoss_id": "3075",
+    "name": "Varena",
+    "place": "village",
+    "population": "799",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q327680",
+    "wikipedia": "it:Varena"
+  }
+},
+{
+  "type": "node",
+  "id": 64776715,
+  "tags": {
+    "gfoss_id": "3076",
+    "loc_name": "Vatàr",
+    "name": "Vattaro",
+    "place": "village",
+    "population": "868",
+    "postal_code": "38049",
+    "wikidata": "Q327704",
+    "wikipedia": "it:Vattaro"
+  }
+},
+{
+  "type": "node",
+  "id": 64776723,
+  "tags": {
+    "name": "Dimaro",
+    "name:it": "Dimaro",
+    "name:lld": "Dimàr",
+    "place": "village",
+    "population": "1196",
+    "wikidata": "Q270640",
+    "wikipedia": "it:Dimaro"
+  }
+},
+{
+  "type": "node",
+  "id": 64776725,
+  "tags": {
+    "gfoss_id": "2934",
+    "name": "Daiano",
+    "place": "village",
+    "population": "674",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q268523",
+    "wikipedia": "it:Daiano"
+  }
+},
+{
+  "type": "node",
+  "id": 64776728,
+  "tags": {
+    "gfoss_id": "2935",
+    "name": "Dambel",
+    "name:it": "Dambel",
+    "name:la": "Ambulum",
+    "name:lld": "Dàmbel",
+    "old_name:de": "Nombel",
+    "place": "village",
+    "population": "424",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30025377"
+  }
+},
+{
+  "type": "node",
+  "id": 64776731,
+  "tags": {
+    "name": "Cunevo",
+    "name:it": "Cunevo",
+    "name:lld": "Cunéo",
+    "place": "village",
+    "population": "568",
+    "wikidata": "Q270185",
+    "wikipedia": "it:Cunevo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776733,
+  "tags": {
+    "gfoss_id": "3023",
+    "name": "Ronzone",
+    "name:it": "Ronzone",
+    "name:lld": "Renzón",
+    "old_name:de": "Rontzaun",
+    "place": "village",
+    "population": "352",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30029584"
+  }
+},
+{
+  "type": "node",
+  "id": 64776737,
+  "tags": {
+    "name": "Roncone",
+    "place": "village",
+    "population": "1352",
+    "wikidata": "Q300998",
+    "wikipedia": "it:Roncone"
+  }
+},
+{
+  "type": "node",
+  "id": 64776739,
+  "tags": {
+    "gfoss_id": "3021",
+    "loc_name": "Ronchi",
+    "name": "Ronchi Valsugana",
+    "place": "village",
+    "population": "385",
+    "source": "geodati.gfoss.it"
+  }
+},
+{
+  "type": "node",
+  "id": 64776742,
+  "tags": {
+    "loc_name": "Lasìn",
+    "name": "Lasino",
+    "place": "village",
+    "population": "688",
+    "wikidata": "Q291661",
+    "wikipedia": "it:Lasino"
+  }
+},
+{
+  "type": "node",
+  "id": 64776749,
+  "tags": {
+    "gfoss_id": "2960",
+    "name": "Grumes",
+    "place": "village",
+    "population": "328",
+    "wikidata": "Q290214",
+    "wikipedia": "it:Grumes"
+  }
+},
+{
+  "type": "node",
+  "id": 64776752,
+  "tags": {
+    "gfoss_id": "2874",
+    "loc_name": "Avi",
+    "name": "Avio",
+    "place": "village",
+    "population": "3918",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022453"
+  }
+},
+{
+  "type": "node",
+  "id": 64776755,
+  "tags": {
+    "gfoss_id": "2873",
+    "loc_name": "Arch",
+    "name": "Arco",
+    "place": "town",
+    "population": "17526",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022306"
+  }
+},
+{
+  "type": "node",
+  "id": 64776757,
+  "tags": {
+    "gfoss_id": "2872",
+    "name": "Andalo",
+    "name:it": "Andalo",
+    "name:lld": "Àndel",
+    "place": "village",
+    "population": "1015",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022211"
+  }
+},
+{
+  "type": "node",
+  "id": 64776761,
+  "tags": {
+    "name": "Amblar",
+    "name:it": "Amblar",
+    "name:lld": "Amblàr",
+    "old_name:de": "Ambler",
+    "place": "village",
+    "population": "204",
+    "wikidata": "Q243750",
+    "wikipedia": "it:Amblar"
+  }
+},
+{
+  "type": "node",
+  "id": 64776762,
+  "tags": {
+    "gfoss_id": "2870",
+    "loc_name": "Naldém",
+    "name": "Aldeno",
+    "place": "village",
+    "population": "2815",
+    "reg_name": "Aldén",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022108"
+  }
+},
+{
+  "type": "node",
+  "id": 64776767,
+  "tags": {
+    "name": "Ragoli",
+    "place": "village",
+    "population": "425",
+    "wikidata": "Q300445",
+    "wikipedia": "it:Ragoli"
+  }
+},
+{
+  "type": "node",
+  "id": 64776768,
+  "tags": {
+    "alt_name:de": "Eichholz",
+    "gfoss_id": "3024",
+    "loc_name": "Roveré",
+    "name": "Roveré della Luna",
+    "name:it": "Roveré della Luna",
+    "old_name:de": "Aichholz",
+    "place": "village",
+    "population": "1472",
+    "source": "geodati.gfoss.it",
+    "source:name:de": "http://it.wikipedia.org/wiki/Esonimi_tedeschi_di_località_italiane",
+    "wikidata": "Q301246",
+    "wikipedia": "it:Roveré della Luna"
+  }
+},
+{
+  "type": "node",
+  "id": 64776770,
+  "tags": {
+    "gfoss_id": "2897",
+    "loc_name": "Calzeranega",
+    "name": "Calceranica al Lago",
+    "name:cim": "Plaif",
+    "name:it": "Calceranica al Lago",
+    "old_name:de": "Plaiff",
+    "place": "village",
+    "population": "1145",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023343"
+  }
+},
+{
+  "type": "node",
+  "id": 64776774,
+  "tags": {
+    "gfoss_id": "2892",
+    "name": "Brez",
+    "name:it": "Brez",
+    "name:lld": "Bréc",
+    "place": "village",
+    "population": "473",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q256709",
+    "wikipedia": "it:Brez"
+  }
+},
+{
+  "type": "node",
+  "id": 64776776,
+  "tags": {
+    "gfoss_id": "2906",
+    "name": "Carano",
+    "place": "village",
+    "population": "821",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q260614",
+    "wikipedia": "it:Carano (Ville di Fiemme)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776780,
+  "tags": {
+    "gfoss_id": "2910",
+    "name": "Castelfondo",
+    "name:it": "Castelfondo",
+    "name:lld": "Cjastelfón",
+    "old_name": "Melango",
+    "old_name:de": "Kastelpfund",
+    "place": "village",
+    "population": "478",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q264813",
+    "wikipedia": "it:Castelfondo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776781,
+  "tags": {
+    "gfoss_id": "2908",
+    "loc_name": "Carzàn",
+    "name": "Carzano",
+    "place": "village",
+    "population": "499",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023873"
+  }
+},
+{
+  "type": "node",
+  "id": 64776783,
+  "tags": {
+    "gfoss_id": "2916",
+    "loc_name": "Ciavedài",
+    "name": "Cavedago",
+    "name:de": "Gofidach",
+    "name:it": "Cavedago",
+    "name:lld": "Ciavedac",
+    "place": "village",
+    "population": "455",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024451"
+  }
+},
+{
+  "type": "node",
+  "id": 64776787,
+  "tags": {
+    "gfoss_id": "2913",
+    "loc_name": "Castarnóvo",
+    "name": "Castelnuovo",
+    "place": "village",
+    "population": "896",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q265003",
+    "wikipedia": "it:Castelnuovo (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776793,
+  "tags": {
+    "gfoss_id": "2880",
+    "loc_name": "Bién",
+    "name": "Bieno",
+    "place": "village",
+    "population": "441",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022837"
+  }
+},
+{
+  "type": "node",
+  "id": 64776795,
+  "tags": {
+    "ele": "697",
+    "name": "Bezzecca",
+    "place": "village",
+    "population": "610",
+    "wikidata": "Q499120",
+    "wikipedia": "it:Bezzecca"
+  }
+},
+{
+  "type": "node",
+  "id": 64776797,
+  "tags": {
+    "name": "Bondo",
+    "place": "village",
+    "population": "677",
+    "wikidata": "Q244272",
+    "wikipedia": "it:Bondo (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776800,
+  "tags": {
+    "gfoss_id": "2883",
+    "name": "Bocenago",
+    "place": "village",
+    "population": "372",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022885"
+  }
+},
+{
+  "type": "node",
+  "id": 64776803,
+  "tags": {
+    "gfoss_id": "2886",
+    "name": "Bondone",
+    "place": "village",
+    "population": "667",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30022934"
+  }
+},
+{
+  "type": "node",
+  "id": 64776805,
+  "tags": {
+    "gfoss_id": "2927",
+    "name": "Cloz",
+    "name:it": "Cloz",
+    "name:lld": "Clòuz",
+    "old_name:de": "Klotz",
+    "place": "village",
+    "population": "704",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q268797",
+    "wikipedia": "it:Cloz"
+  }
+},
+{
+  "type": "node",
+  "id": 64776807,
+  "tags": {
+    "name": "Condino",
+    "place": "village",
+    "population": "1492",
+    "wikidata": "Q269720",
+    "wikipedia": "it:Condino"
+  }
+},
+{
+  "type": "node",
+  "id": 64776810,
+  "tags": {
+    "name": "Darè",
+    "place": "village",
+    "population": "242",
+    "wikidata": "Q270443",
+    "wikipedia": "it:Darè"
+  }
+},
+{
+  "type": "node",
+  "id": 64776812,
+  "tags": {
+    "gfoss_id": "2938",
+    "name": "Denno",
+    "name:it": "Denno",
+    "name:lld": "Dén",
+    "place": "village",
+    "population": "1100",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30025409"
+  }
+},
+{
+  "type": "node",
+  "id": 64776814,
+  "tags": {
+    "name": "Don",
+    "name:it": "Don",
+    "name:lld": "Dòn",
+    "old_name:de": "Daun",
+    "place": "village",
+    "population": "248",
+    "wikidata": "Q270877"
+  }
+},
+{
+  "type": "node",
+  "id": 64776816,
+  "tags": {
+    "ele": "398",
+    "gfoss_id": "2942",
+    "name": "Drena",
+    "place": "village",
+    "population": "584",
+    "source": "geodati.gfoss.it",
+    "website": "https://www.comune.drena.tn.it/",
+    "wikidata": "Q271150",
+    "wikipedia": "it:Drena"
+  }
+},
+{
+  "type": "node",
+  "id": 64776818,
+  "tags": {
+    "gfoss_id": "2943",
+    "name": "Dro",
+    "place": "village",
+    "population": "3388",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30025504"
+  }
+},
+{
+  "type": "node",
+  "id": 64776820,
+  "tags": {
+    "gfoss_id": "2944",
+    "loc_name": "Faé",
+    "name": "Faedo",
+    "place": "village",
+    "population": "216",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q286544",
+    "wikipedia": "it:Faedo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776824,
+  "tags": {
+    "gfoss_id": "2917",
+    "loc_name": "Cavedem",
+    "name": "Cavedine",
+    "place": "village",
+    "population": "2730",
+    "reg_name": "Caveden",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024452"
+  }
+},
+{
+  "type": "node",
+  "id": 64776826,
+  "tags": {
+    "alt_name:lld": "Cjaviciana",
+    "gfoss_id": "2918",
+    "name": "Cavizzana",
+    "name:it": "Cavizzana",
+    "name:lld": "Chjavizànå",
+    "place": "village",
+    "population": "226",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024460"
+  }
+},
+{
+  "type": "node",
+  "id": 64776828,
+  "tags": {
+    "gfoss_id": "2919",
+    "name": "Cembra",
+    "name:azb": "چمبرا",
+    "name:ce": "Чембра",
+    "name:de": "Cembra",
+    "name:fa": "چمبرا",
+    "name:fr": "Cembra",
+    "name:hy": "Չեմբրա",
+    "name:kk": "Чембра",
+    "name:ru": "Чембра",
+    "name:sr": "Чембра",
+    "name:tt": "Чембра",
+    "name:uk": "Чембра",
+    "old_name:de": "Zimmers;Zimber;Schimmers",
+    "place": "village",
+    "population": "1802",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q267203",
+    "wikipedia": "it:Cembra"
+  }
+},
+{
+  "type": "node",
+  "id": 64776832,
+  "tags": {
+    "gfoss_id": "2923",
+    "loc_name": "Sinte",
+    "name": "Cinte Tesino",
+    "place": "village",
+    "population": "406",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024772"
+  }
+},
+{
+  "type": "node",
+  "id": 64776834,
+  "tags": {
+    "gfoss_id": "2924",
+    "name": "Cis",
+    "name:it": "Cis",
+    "name:lld": "Cis",
+    "old_name:de": "Tscheiss",
+    "place": "village",
+    "population": "300",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024789"
+  }
+},
+{
+  "type": "node",
+  "id": 64776836,
+  "tags": {
+    "gfoss_id": "2925",
+    "loc_name": "Zivezàn",
+    "name": "Civezzano",
+    "place": "village",
+    "population": "3113",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024824"
+  }
+},
+{
+  "type": "node",
+  "id": 64776838,
+  "tags": {
+    "alt_name:lld": "Cliès",
+    "gfoss_id": "2926",
+    "name": "Cles",
+    "name:it": "Cles",
+    "name:lld": "Clés",
+    "old_name:de": "Glöß",
+    "place": "village",
+    "population": "6982",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30024862"
+  }
+},
+{
+  "type": "node",
+  "id": 64776843,
+  "tags": {
+    "gfoss_id": "3018",
+    "name": "Romallo",
+    "name:it": "Romallo",
+    "name:lld": "Romal",
+    "old_name:de": "Ramöl",
+    "place": "village",
+    "population": "591",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q300944",
+    "wikipedia": "it:Romallo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776844,
+  "tags": {
+    "gfoss_id": "3017",
+    "loc_name": "Riva",
+    "name": "Riva del Garda",
+    "old_name:de": "Reiff am Gartsee",
+    "place": "town",
+    "population": "16926",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30029393"
+  }
+},
+{
+  "type": "node",
+  "id": 64776848,
+  "tags": {
+    "gfoss_id": "2957",
+    "name": "Giustino",
+    "place": "village",
+    "population": "694",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30026128"
+  }
+},
+{
+  "type": "node",
+  "id": 64776850,
+  "tags": {
+    "gfoss_id": "3035",
+    "loc_name": "Scurele",
+    "name": "Scurelle",
+    "place": "village",
+    "population": "1276",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030530"
+  }
+},
+{
+  "type": "node",
+  "id": 64776852,
+  "tags": {
+    "gfoss_id": "3033",
+    "name": "Sanzeno",
+    "name:it": "Sanzeno",
+    "name:lld": "Sanzén",
+    "old_name:de": "Sanzinnen",
+    "place": "village",
+    "population": "339",
+    "wikidata": "Q30030402"
+  }
+},
+{
+  "type": "node",
+  "id": 64776853,
+  "tags": {
+    "name": "San Lorenzo in Banale",
+    "place": "village",
+    "population": "1588",
+    "population:date": "2017-01-01",
+    "wikidata": "Q30029992",
+    "wikipedia": "it:San Lorenzo in Banale"
+  }
+},
+{
+  "type": "node",
+  "id": 64776856,
+  "tags": {
+    "gfoss_id": "3029",
+    "loc_name": "Samón",
+    "name": "Samone",
+    "place": "village",
+    "population": "494",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30029756"
+  }
+},
+{
+  "type": "node",
+  "id": 64776858,
+  "tags": {
+    "name": "Flavon",
+    "name:it": "Flavon",
+    "name:lld": "Flaón",
+    "place": "village",
+    "population": "483",
+    "wikidata": "Q287051",
+    "wikipedia": "it:Flavon"
+  }
+},
+{
+  "type": "node",
+  "id": 64776860,
+  "tags": {
+    "admin_centre:postal_code": "38054",
+    "gfoss_id": "2948",
+    "name": "Fiera di Primiero",
+    "name:azb": "فیرا دی پریمیرو",
+    "name:be": "Фіера-дзі-Прым’ера",
+    "name:de": "Fiera di Primiero",
+    "name:fr": "Fiera di Primiero",
+    "name:hy": "Ֆիերա դի Պրիմերո",
+    "name:kk": "Фьера-ди-Примьеро",
+    "name:sr": "Фјера ди Примијеро",
+    "name:uk": "Фієра-ді-Прим'єро",
+    "name:vec": "Fiera de Primiero",
+    "old_name:de": "Markt Primör",
+    "place": "village",
+    "population": "507",
+    "wikidata": "Q286889",
+    "wikipedia": "it:Fiera di Primiero"
+  }
+},
+{
+  "type": "node",
+  "id": 64776863,
+  "tags": {
+    "gfoss_id": "2946",
+    "name": "Faver",
+    "place": "village",
+    "population": "733",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q286770",
+    "wikipedia": "it:Faver"
+  }
+},
+{
+  "type": "node",
+  "id": 64776865,
+  "tags": {
+    "gfoss_id": "2945",
+    "loc_name": "Fai",
+    "name": "Fai della Paganella",
+    "name:de": "Oberpfeidt",
+    "name:it": "Fai della Paganella",
+    "name:lld": "Fai",
+    "place": "village",
+    "population": "900",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q286597",
+    "wikipedia": "it:Fai della Paganella"
+  }
+},
+{
+  "type": "node",
+  "id": 64776869,
+  "tags": {
+    "admin_centre:postal_code": "38040",
+    "gfoss_id": "2953",
+    "loc_name": "Fornàs",
+    "name": "Fornace",
+    "place": "village",
+    "population": "1166",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30025825"
+  }
+},
+{
+  "type": "node",
+  "id": 64776871,
+  "tags": {
+    "admin_centre:postal_code": "38013",
+    "gfoss_id": "2952",
+    "name": "Fondo",
+    "name:it": "Fondo",
+    "name:lld": "Fón",
+    "old_name:de": "Pfund",
+    "place": "village",
+    "population": "1135",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q288109",
+    "wikipedia": "it:Fondo (Borgo d'Anaunia)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776873,
+  "tags": {
+    "gfoss_id": "2951",
+    "name": "Folgaria",
+    "name:cim": "Folgrait",
+    "name:it": "Folgaria",
+    "old_name:de": "Vielgereuth",
+    "place": "village",
+    "population": "3086",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30025767"
+  }
+},
+{
+  "type": "node",
+  "id": 64776875,
+  "tags": {
+    "name": "Terres",
+    "name:it": "Terres",
+    "name:lld": "Tères",
+    "place": "village",
+    "population": "307",
+    "wikidata": "Q327076",
+    "wikipedia": "it:Terres"
+  }
+},
+{
+  "type": "node",
+  "id": 64776877,
+  "tags": {
+    "gfoss_id": "3060",
+    "name": "Tesero",
+    "name:de": "Teser",
+    "name:it": "Tesero",
+    "name:ru": "Тезеро",
+    "place": "village",
+    "population": "2617",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031094"
+  }
+},
+{
+  "type": "node",
+  "id": 64776879,
+  "tags": {
+    "gfoss_id": "3053",
+    "loc_name": "Telve de Sora",
+    "name": "Telve di Sopra",
+    "place": "village",
+    "population": "612",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031043"
+  }
+},
+{
+  "type": "node",
+  "id": 64776883,
+  "tags": {
+    "loc_name": "Terlàch",
+    "name": "Terlago",
+    "place": "village",
+    "population": "838",
+    "wikidata": "Q30031056",
+    "wikipedia": "it:Terlago"
+  }
+},
+{
+  "type": "node",
+  "id": 64776887,
+  "tags": {
+    "admin_centre:postal_code": "38054",
+    "gfoss_id": "3068",
+    "loc_name": "Tresaqua",
+    "name": "Transacqua",
+    "place": "village",
+    "population": "2021",
+    "wikidata": "Q30031255",
+    "wikipedia": "it:Transacqua"
+  }
+},
+{
+  "type": "node",
+  "id": 64776888,
+  "tags": {
+    "gfoss_id": "3070",
+    "name": "Tres",
+    "name:it": "Tres",
+    "name:lld": "Trés",
+    "place": "village",
+    "population": "644",
+    "wikidata": "Q327503",
+    "wikipedia": "it:Tres"
+  }
+},
+{
+  "type": "node",
+  "id": 64776892,
+  "tags": {
+    "name": "Tiarno di Sotto",
+    "place": "village",
+    "population": "697",
+    "wikidata": "Q753834",
+    "wikipedia": "it:Tiarno di Sotto"
+  }
+},
+{
+  "type": "node",
+  "id": 64776898,
+  "tags": {
+    "name": "Tione di Trento",
+    "place": "village",
+    "population": "3620",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031118"
+  }
+},
+{
+  "type": "node",
+  "id": 64776900,
+  "tags": {
+    "gfoss_id": "3043",
+    "name": "Spiazzo",
+    "place": "village",
+    "population": "1122",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030873"
+  }
+},
+{
+  "type": "node",
+  "id": 64776903,
+  "tags": {
+    "admin_centre:postal_code": "38010",
+    "alt_name:lld": "Spór",
+    "gfoss_id": "3044",
+    "name": "Spormaggiore",
+    "name:it": "Spormaggiore",
+    "name:lld": "Sporgrànt",
+    "place": "village",
+    "population": "1175",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030895"
+  }
+},
+{
+  "type": "node",
+  "id": 64776905,
+  "tags": {
+    "gfoss_id": "3038",
+    "name": "Siror",
+    "place": "village",
+    "population": "713",
+    "wikidata": "Q30030744",
+    "wikipedia": "it:Siror"
+  }
+},
+{
+  "type": "node",
+  "id": 64776913,
+  "tags": {
+    "gfoss_id": "3042",
+    "name": "Spera",
+    "old_name:de": "Spier",
+    "place": "village",
+    "population": "476",
+    "wikidata": "Q305996",
+    "wikipedia": "it:Spera"
+  }
+},
+{
+  "type": "node",
+  "id": 64776917,
+  "tags": {
+    "alt_name:lld": "Taśùl",
+    "name": "Tassullo",
+    "name:it": "Tassullo",
+    "name:lld": "Tassul",
+    "place": "village",
+    "population": "1554",
+    "wikidata": "Q326842",
+    "wikipedia": "it:Tassullo"
+  }
+},
+{
+  "type": "node",
+  "id": 64776918,
+  "tags": {
+    "gfoss_id": "3052",
+    "name": "Telve",
+    "place": "village",
+    "population": "1887",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031041"
+  }
+},
+{
+  "type": "node",
+  "id": 64776921,
+  "tags": {
+    "gfoss_id": "3046",
+    "name": "Stenico",
+    "place": "village",
+    "population": "1061",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030915"
+  }
+},
+{
+  "type": "node",
+  "id": 64776927,
+  "tags": {
+    "alt_name:lld": "Lio",
+    "gfoss_id": "2970",
+    "name": "Livo",
+    "name:it": "Livo",
+    "name:lld": "Liu",
+    "old_name:de": "Lifers",
+    "place": "village",
+    "population": "858",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q294810"
+  }
+},
+{
+  "type": "node",
+  "id": 64776930,
+  "tags": {
+    "ele": "657",
+    "name": "Molina di Ledro",
+    "place": "village",
+    "population": "1064",
+    "wikidata": "Q493047",
+    "wikipedia": "it:Molina di Ledro"
+  }
+},
+{
+  "type": "node",
+  "id": 64776932,
+  "tags": {
+    "gfoss_id": "2980",
+    "loc_name": "Mezacoróna",
+    "name": "Mezzocorona",
+    "name:de": "Kronmetz",
+    "name:it": "Mezzocorona",
+    "name:lld": "Mezacoróna",
+    "old_name:de": "Deutschmetz",
+    "old_name:it": "Mezzotedesco",
+    "place": "village",
+    "population": "4711",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q295562",
+    "wikipedia": "it:Mezzocorona"
+  }
+},
+{
+  "type": "node",
+  "id": 64776937,
+  "tags": {
+    "admin_centre:postal_code": "38050",
+    "gfoss_id": "2961",
+    "name": "Imer",
+    "official_name": "Imèr",
+    "place": "village",
+    "population": "1211",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30026339"
+  }
+},
+{
+  "type": "node",
+  "id": 64776939,
+  "tags": {
+    "gfoss_id": "2968",
+    "loc_name": "Levego",
+    "name": "Levico Terme",
+    "name:cim": "Leve",
+    "name:de": "Löweneck",
+    "name:it": "Levico Terme",
+    "place": "town",
+    "population": "7915",
+    "reg_name": "Levech",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q294678",
+    "wikipedia": "it:Levico Terme"
+  }
+},
+{
+  "type": "node",
+  "id": 64776941,
+  "tags": {
+    "gfoss_id": "2967",
+    "loc_name": "Lavìs",
+    "name": "Lavis",
+    "place": "village",
+    "population": "8915",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30026547"
+  }
+},
+{
+  "type": "node",
+  "id": 64776943,
+  "tags": {
+    "gfoss_id": "3088",
+    "name": "Zambana",
+    "place": "village",
+    "population": "1569",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q145472",
+    "wikipedia": "it:Zambana"
+  }
+},
+{
+  "type": "node",
+  "id": 64776948,
+  "tags": {
+    "name": "Villa Rendena",
+    "place": "village",
+    "population": "397",
+    "wikidata": "Q328049",
+    "wikipedia": "it:Villa Rendena"
+  }
+},
+{
+  "type": "node",
+  "id": 64776950,
+  "tags": {
+    "gfoss_id": "2959",
+    "name": "Grigno",
+    "place": "village",
+    "population": "2340",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30026227"
+  }
+},
+{
+  "type": "node",
+  "id": 64776952,
+  "tags": {
+    "name": "Mazzin - Mazin",
+    "name:it": "Mazzin",
+    "name:lld": "Mazin",
+    "place": "village",
+    "population": "116",
+    "wikidata": "Q104150467"
+  }
+},
+{
+  "type": "node",
+  "id": 64776954,
+  "tags": {
+    "gfoss_id": "3081",
+    "name": "Vigo di Fassa - Vich",
+    "name:it": "Vigo di Fassa",
+    "name:lld": "Vich",
+    "place": "village",
+    "population": "1073",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30031740"
+  }
+},
+{
+  "type": "node",
+  "id": 64776957,
+  "tags": {
+    "gfoss_id": "3072",
+    "name": "Valda",
+    "place": "village",
+    "population": "214",
+    "wikidata": "Q327558",
+    "wikipedia": "it:Valda"
+  }
+},
+{
+  "type": "node",
+  "id": 64776961,
+  "tags": {
+    "name": "Vigo Rendena",
+    "place": "village",
+    "population": "501",
+    "wikidata": "Q327903",
+    "wikipedia": "it:Vigo Rendena"
+  }
+},
+{
+  "type": "node",
+  "id": 64776962,
+  "tags": {
+    "gfoss_id": "3009",
+    "name": "Pozza di Fassa - Poza",
+    "name:de": "Potzach im Fasstal",
+    "name:it": "Pozza di Fassa",
+    "name:lld": "Poza",
+    "place": "village",
+    "population": "1462",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q299987"
+  }
+},
+{
+  "type": "node",
+  "id": 64776969,
+  "tags": {
+    "name": "Prezzo",
+    "place": "village",
+    "population": "208",
+    "wikidata": "Q300128",
+    "wikipedia": "it:Prezzo (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776971,
+  "tags": {
+    "ele": "660",
+    "name": "Pieve di Ledro",
+    "place": "village",
+    "population": "361",
+    "wikidata": "Q816769",
+    "wikipedia": "it:Pieve di Ledro"
+  }
+},
+{
+  "type": "node",
+  "id": 64776973,
+  "tags": {
+    "ele": "843",
+    "gfoss_id": "3006",
+    "loc_name": "Pieve",
+    "name": "Pieve Tesino",
+    "place": "village",
+    "population": "772",
+    "source": "geodati.gfoss.it",
+    "website": "https://www.comune.pievetesino.tn.it/",
+    "wikidata": "Q30028871"
+  }
+},
+{
+  "type": "node",
+  "id": 64776977,
+  "tags": {
+    "gfoss_id": "3008",
+    "loc_name": "Pomaròl",
+    "name": "Pomarolo",
+    "place": "village",
+    "population": "2125",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028998"
+  }
+},
+{
+  "type": "node",
+  "id": 64776979,
+  "tags": {
+    "gfoss_id": "2990",
+    "loc_name": "Nao;Naf",
+    "name": "Nave San Rocco",
+    "old_name:de": "Schöffbrück",
+    "place": "village",
+    "population": "1061",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q296636",
+    "wikipedia": "it:Nave San Rocco"
+  }
+},
+{
+  "type": "node",
+  "id": 64776981,
+  "tags": {
+    "gfoss_id": "2992",
+    "name": "Nomi",
+    "place": "village",
+    "population": "1286",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q296869",
+    "wikipedia": "it:Nomi (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 64776984,
+  "tags": {
+    "gfoss_id": "2993",
+    "name": "Novaledo",
+    "place": "village",
+    "population": "882",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028254"
+  }
+},
+{
+  "type": "node",
+  "id": 64776986,
+  "tags": {
+    "gfoss_id": "3001",
+    "name": "Pellizzano",
+    "name:it": "Pellizzano",
+    "name:lld": "Pliciàn",
+    "name:lmo": "Plicià",
+    "place": "village",
+    "population": "795",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30028690"
+  }
+},
+{
+  "type": "node",
+  "id": 64776988,
+  "tags": {
+    "gfoss_id": "2984",
+    "name": "Molveno",
+    "name:de": "Malfein",
+    "name:it": "Molveno",
+    "name:lld": "Molvén",
+    "place": "village",
+    "population": "1102",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q295782",
+    "wikipedia": "it:Molveno"
+  }
+},
+{
+  "type": "node",
+  "id": 64776990,
+  "tags": {
+    "name": "Monclassico",
+    "name:it": "Monclassico",
+    "name:lld": "Moclasech",
+    "place": "village",
+    "population": "812",
+    "wikidata": "Q295906",
+    "wikipedia": "it:Monclassico"
+  }
+},
+{
+  "type": "node",
+  "id": 64776992,
+  "tags": {
+    "gfoss_id": "2987",
+    "name": "Mori",
+    "place": "town",
+    "population": "10211",
+    "population:date": "2023-12-31",
+    "wikidata": "Q296217",
+    "wikipedia": "it:Mori (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 107373240,
+  "tags": {
+    "name": "Pietramurata",
+    "place": "village",
+    "population": "1120",
+    "wikidata": "Q18481879",
+    "wikimedia_commons": "File:Pietramurata_01.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 107373839,
+  "tags": {
+    "name": "Sarche",
+    "place": "village",
+    "population": "533",
+    "wikidata": "Q18482854"
+  }
+},
+{
+  "type": "node",
+  "id": 107432938,
+  "tags": {
+    "name": "Sano",
+    "place": "village",
+    "wikidata": "Q18482737"
+  }
+},
+{
+  "type": "node",
+  "id": 107452346,
+  "tags": {
+    "loc_name": "Nach",
+    "name": "Nago",
+    "place": "village",
+    "wikidata": "Q23920061"
+  }
+},
+{
+  "type": "node",
+  "id": 248888756,
+  "tags": {
+    "name": "Povo",
+    "place": "village",
+    "population": "4689",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q2785339",
+    "wikipedia": "it:Povo"
+  }
+},
+{
+  "type": "node",
+  "id": 248889227,
+  "tags": {
+    "name": "Molina di Fiemme",
+    "old_name:de": "Mühlen im Fleimstal",
+    "place": "village",
+    "population": "971",
+    "wikidata": "Q33463202"
+  }
+},
+{
+  "type": "node",
+  "id": 253776788,
+  "tags": {
+    "admin_centre:postal_code": "38054",
+    "ele": "1447",
+    "name": "San Martino di Castrozza",
+    "place": "village",
+    "population": "535",
+    "wikidata": "Q431838",
+    "wikipedia": "it:San Martino di Castrozza"
+  }
+},
+{
+  "type": "node",
+  "id": 259973563,
+  "tags": {
+    "name": "Montevaccino",
+    "place": "village",
+    "wikidata": "Q3862404",
+    "wikipedia": "it:Montevaccino"
+  }
+},
+{
+  "type": "node",
+  "id": 260007551,
+  "tags": {
+    "name": "Montesover",
+    "place": "village",
+    "wikidata": "Q18509706"
+  }
+},
+{
+  "type": "node",
+  "id": 261087055,
+  "tags": {
+    "name": "Castello di Fiemme",
+    "name:it": "Castello di Fiemme",
+    "name:ru": "Кастелло ди Фьемме",
+    "old_name:de": "Kastell im Fleimstal",
+    "place": "village",
+    "population": "1106",
+    "wikidata": "Q18478844"
+  }
+},
+{
+  "type": "node",
+  "id": 264799276,
+  "tags": {
+    "loc_name": "Is'cia",
+    "name": "Ischia",
+    "place": "village",
+    "wikidata": "Q1673775",
+    "wikipedia": "it:Ischia (Pergine Valsugana)"
+  }
+},
+{
+  "type": "node",
+  "id": 267666996,
+  "tags": {
+    "name": "Sardagna",
+    "place": "village",
+    "population": "903",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q2331912",
+    "wikipedia": "it:Sardagna"
+  }
+},
+{
+  "type": "node",
+  "id": 268802353,
+  "tags": {
+    "alt_name:de": "Wasilig-Pineid",
+    "loc_name": "Baselga",
+    "name": "Baselga di Piné",
+    "place": "village",
+    "population": "5038",
+    "wikidata": "Q30022638"
+  }
+},
+{
+  "type": "node",
+  "id": 269004350,
+  "tags": {
+    "name": "Pregasina",
+    "place": "village",
+    "wikidata": "Q16743621",
+    "wikipedia": "it:Pregasina"
+  }
+},
+{
+  "type": "node",
+  "id": 269005217,
+  "tags": {
+    "name": "Biacesa di Ledro",
+    "place": "village",
+    "population": "208",
+    "wikidata": "Q18478712"
+  }
+},
+{
+  "type": "node",
+  "id": 269125461,
+  "tags": {
+    "loc_name": "Miöla",
+    "name": "Miola",
+    "name:de": "Mühlen im Pineid",
+    "place": "village",
+    "population": "1100",
+    "wikidata": "Q3858664",
+    "wikipedia": "it:Miola"
+  }
+},
+{
+  "type": "node",
+  "id": 269127244,
+  "tags": {
+    "name": "Tressilla",
+    "place": "village",
+    "wikidata": "Q60050414"
+  }
+},
+{
+  "type": "node",
+  "id": 269139565,
+  "tags": {
+    "loc_name": "Campjònch",
+    "name": "Campolongo",
+    "place": "village",
+    "wikidata": "Q18482399"
+  }
+},
+{
+  "type": "node",
+  "id": 269139663,
+  "tags": {
+    "loc_name": "Ciorlaga",
+    "name": "Rizzolaga",
+    "place": "village",
+    "wikidata": "Q60194371"
+  }
+},
+{
+  "type": "node",
+  "id": 269195894,
+  "tags": {
+    "name": "Faida",
+    "old_alt_name": "Fögelhof",
+    "place": "village",
+    "wikidata": "Q18479601",
+    "wikipedia": "it:Faida (Baselga di Piné)"
+  }
+},
+{
+  "type": "node",
+  "id": 269197444,
+  "tags": {
+    "ele": "882",
+    "name": "Montagnaga",
+    "place": "village",
+    "wikidata": "Q3861074",
+    "wikipedia": "it:Montagnaga"
+  }
+},
+{
+  "type": "node",
+  "id": 269358768,
+  "tags": {
+    "name": "Piscine",
+    "place": "village",
+    "wikidata": "Q18481932"
+  }
+},
+{
+  "type": "node",
+  "id": 269555337,
+  "tags": {
+    "loc_name": "Vich",
+    "name": "Vigo",
+    "place": "village",
+    "wikidata": "Q60050615"
+  }
+},
+{
+  "type": "node",
+  "id": 270664155,
+  "tags": {
+    "ele": "204",
+    "loc_name": "Roveredo",
+    "name": "Rovereto",
+    "name:cim": "Rovrait",
+    "name:it": "Rovereto",
+    "old_name:de": "Rofreit",
+    "place": "town",
+    "population": "39289",
+    "source:name:de": "http://it.wikipedia.org/wiki/Esonimi_tedeschi_di_località_italiane",
+    "wikidata": "Q279373",
+    "wikipedia": "it:Rovereto"
+  }
+},
+{
+  "type": "node",
+  "id": 270912891,
+  "tags": {
+    "name": "San Cristoforo al Lago",
+    "place": "village",
+    "short_name": "San Cristoforo",
+    "wikidata": "Q2219394",
+    "wikipedia": "it:San Cristoforo al Lago"
+  }
+},
+{
+  "type": "node",
+  "id": 272333332,
+  "tags": {
+    "name": "Pera",
+    "name:it": "Pera di Fassa",
+    "name:lld": "Pèra",
+    "place": "village",
+    "wikidata": "Q18481717"
+  }
+},
+{
+  "type": "node",
+  "id": 274110559,
+  "tags": {
+    "name": "Canzolino",
+    "place": "village",
+    "wikidata": "Q60028286"
+  }
+},
+{
+  "type": "node",
+  "id": 277390418,
+  "tags": {
+    "loc_name": "Madràn",
+    "name": "Madrano",
+    "name:it": "Madrano",
+    "old_name:de": "Maderein",
+    "place": "village",
+    "wikidata": "Q268073",
+    "wikipedia": "it:Madrano"
+  }
+},
+{
+  "type": "node",
+  "id": 277765028,
+  "tags": {
+    "loc_name": "Soramónt",
+    "name": "Sopramonte",
+    "place": "village",
+    "population": "2859",
+    "wikidata": "Q3491109",
+    "wikipedia": "it:Sopramonte"
+  }
+},
+{
+  "type": "node",
+  "id": 278536307,
+  "tags": {
+    "name": "Nogaré",
+    "place": "village",
+    "wikidata": "Q18481398",
+    "wikipedia": "it:Nogarè (Pergine Valsugana)"
+  }
+},
+{
+  "type": "node",
+  "id": 278546542,
+  "tags": {
+    "loc_name": "Meàn",
+    "name": "Meano",
+    "place": "village",
+    "population": "2096",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q16577419",
+    "wikipedia": "it:Meano (Trento)"
+  }
+},
+{
+  "type": "node",
+  "id": 282673529,
+  "tags": {
+    "gfoss_id": "3048",
+    "name": "Strembo",
+    "place": "village",
+    "population": "452",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30030937"
+  }
+},
+{
+  "type": "node",
+  "id": 287339352,
+  "tags": {
+    "name": "Piazze",
+    "place": "village",
+    "wikidata": "Q33472466"
+  }
+},
+{
+  "type": "node",
+  "id": 287896814,
+  "tags": {
+    "name": "Lusérn - Luserna",
+    "name:cim": "Lusérn",
+    "name:de": "Lusern",
+    "name:it": "Luserna",
+    "place": "village",
+    "population": "276",
+    "wikidata": "Q18480417"
+  }
+},
+{
+  "type": "node",
+  "id": 289241792,
+  "tags": {
+    "loc_name": "Vilazàn",
+    "name": "Villazzano",
+    "place": "village",
+    "wikidata": "Q24248504"
+  }
+},
+{
+  "type": "node",
+  "id": 292028996,
+  "tags": {
+    "loc_name": "Martignàn",
+    "name": "Martignano",
+    "place": "village",
+    "wikidata": "Q2400690",
+    "wikipedia": "it:Martignano (Trento)"
+  }
+},
+{
+  "type": "node",
+  "id": 292032968,
+  "tags": {
+    "name": "Tavernaro",
+    "place": "village",
+    "population": "744",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18483236"
+  }
+},
+{
+  "type": "node",
+  "id": 292033159,
+  "tags": {
+    "loc_name": "Vilamontàgna",
+    "name": "Villamontagna",
+    "place": "village",
+    "population": "744",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q4012872",
+    "wikipedia": "it:Villamontagna"
+  }
+},
+{
+  "type": "node",
+  "id": 293121096,
+  "tags": {
+    "loc_name": "Fravéz",
+    "name": "Fraveggio",
+    "place": "village",
+    "wikidata": "Q48807805"
+  }
+},
+{
+  "type": "node",
+  "id": 293351035,
+  "tags": {
+    "created_by": "JOSM",
+    "name": "Pian dei Pradi",
+    "place": "village",
+    "wikidata": "Q18481767"
+  }
+},
+{
+  "type": "node",
+  "id": 293884641,
+  "tags": {
+    "ele": "536",
+    "name": "Susà",
+    "place": "village",
+    "population": "775",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18483187"
+  }
+},
+{
+  "type": "node",
+  "id": 296376449,
+  "tags": {
+    "loc_name": "Lopi",
+    "name": "Loppio",
+    "place": "village",
+    "wikidata": "Q18480401"
+  }
+},
+{
+  "type": "node",
+  "id": 297879805,
+  "tags": {
+    "loc_name": "Pranz",
+    "name": "Pranzo",
+    "place": "village",
+    "wikidata": "Q18482198"
+  }
+},
+{
+  "type": "node",
+  "id": 298116463,
+  "tags": {
+    "name": "Varone",
+    "place": "village",
+    "wikidata": "Q42303809"
+  }
+},
+{
+  "type": "node",
+  "id": 299651013,
+  "tags": {
+    "name": "Bolognano",
+    "place": "village",
+    "population": "2102",
+    "wikidata": "Q3641903",
+    "wikipedia": "it:Bolognano (Arco)"
+  }
+},
+{
+  "type": "node",
+  "id": 299943877,
+  "tags": {
+    "name": "Ville Del Monte",
+    "place": "village",
+    "wikidata": "Q1496515"
+  }
+},
+{
+  "type": "node",
+  "id": 301244739,
+  "tags": {
+    "ele": "665",
+    "name": "Mezzolago",
+    "place": "village",
+    "population": "250",
+    "wikidata": "Q18509909"
+  }
+},
+{
+  "type": "node",
+  "id": 301453870,
+  "tags": {
+    "name": "Campi",
+    "place": "village",
+    "wikidata": "Q18478792"
+  }
+},
+{
+  "type": "node",
+  "id": 301850417,
+  "tags": {
+    "name": "San Martino",
+    "place": "village",
+    "wikidata": "Q101208280"
+  }
+},
+{
+  "type": "node",
+  "id": 301850483,
+  "tags": {
+    "loc_name": "Masón",
+    "name": "Massone",
+    "place": "village",
+    "wikidata": "Q3851540",
+    "wikipedia": "it:Massone (Arco)"
+  }
+},
+{
+  "type": "node",
+  "id": 305880648,
+  "tags": {
+    "loc_name": "Vigol",
+    "name": "Vigolo Baselga",
+    "place": "village",
+    "wikidata": "Q16621234",
+    "wikipedia": "it:Vigolo Baselga"
+  }
+},
+{
+  "type": "node",
+  "id": 306396668,
+  "tags": {
+    "name": "Pozza",
+    "place": "village",
+    "population": "124",
+    "wikidata": "Q18482080"
+  }
+},
+{
+  "type": "node",
+  "id": 307700089,
+  "tags": {
+    "name": "Patone",
+    "place": "village",
+    "wikidata": "Q18509722",
+    "wikipedia": "it:Patone"
+  }
+},
+{
+  "type": "node",
+  "id": 307705098,
+  "tags": {
+    "name": "Noarna",
+    "place": "village",
+    "wikidata": "Q18481386",
+    "wikipedia": "it:Noarna"
+  }
+},
+{
+  "type": "node",
+  "id": 307705105,
+  "tags": {
+    "name": "Sasso",
+    "place": "village",
+    "wikidata": "Q18482869",
+    "wikipedia": "it:Sasso (Nogaredo)"
+  }
+},
+{
+  "type": "node",
+  "id": 307705546,
+  "tags": {
+    "name": "Brancolino",
+    "place": "village",
+    "wikidata": "Q18478751"
+  }
+},
+{
+  "type": "node",
+  "id": 317523335,
+  "tags": {
+    "name": "Selva di Levico",
+    "name:cim": "Zilf",
+    "name:it": "Selva di Levico",
+    "place": "village",
+    "wikidata": "Q100899306"
+  }
+},
+{
+  "type": "node",
+  "id": 317642494,
+  "tags": {
+    "name": "Barco",
+    "place": "village",
+    "wikidata": "Q18508856"
+  }
+},
+{
+  "type": "node",
+  "id": 319913153,
+  "tags": {
+    "loc_name": "Covel",
+    "name": "Covelo",
+    "place": "village",
+    "population": "361",
+    "wikidata": "Q18509359"
+  }
+},
+{
+  "type": "node",
+  "id": 319916993,
+  "tags": {
+    "name": "Vallene",
+    "place": "village",
+    "population": "263",
+    "wikidata": "Q18481917"
+  }
+},
+{
+  "type": "node",
+  "id": 322897653,
+  "tags": {
+    "name": "Ceniga",
+    "place": "village",
+    "wikidata": "Q18478865"
+  }
+},
+{
+  "type": "node",
+  "id": 327493484,
+  "tags": {
+    "name": "Bellamonte",
+    "place": "village",
+    "wikidata": "Q3637741",
+    "wikimedia_commons": "Category:Bellamonte",
+    "wikipedia": "it:Bellamonte"
+  }
+},
+{
+  "type": "node",
+  "id": 327493488,
+  "tags": {
+    "name": "Ceola",
+    "place": "village",
+    "population": "234",
+    "wikidata": "Q3664939",
+    "wikipedia": "it:Ceola"
+  }
+},
+{
+  "type": "node",
+  "id": 327580361,
+  "tags": {
+    "loc_name": "Folgàridå",
+    "loc_name:pronunciation": "fol'garida",
+    "name": "Folgarida",
+    "name:lld": "Folgàridå",
+    "name:lld:pronunciation": "fol'garida",
+    "place": "village",
+    "population": "33",
+    "wikidata": "Q825115",
+    "wikipedia": "it:Folgarida"
+  }
+},
+{
+  "type": "node",
+  "id": 329365185,
+  "tags": {
+    "name": "Cologna",
+    "place": "village",
+    "wikidata": "Q101470550"
+  }
+},
+{
+  "type": "node",
+  "id": 329365193,
+  "tags": {
+    "loc_name": "Gavàz",
+    "name": "Gavazzo",
+    "place": "village",
+    "wikidata": "Q101470397"
+  }
+},
+{
+  "type": "node",
+  "id": 330308343,
+  "tags": {
+    "loc_name": "Caden",
+    "name": "Cadine",
+    "place": "village",
+    "population": "1393",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q2628032",
+    "wikipedia": "it:Cadine"
+  }
+},
+{
+  "type": "node",
+  "id": 331812744,
+  "tags": {
+    "name": "San Giorgio",
+    "place": "village",
+    "wikidata": "Q18482655"
+  }
+},
+{
+  "type": "node",
+  "id": 333696240,
+  "tags": {
+    "name": "San Bernardo",
+    "name:it": "San Bernardo",
+    "name:lld": "San Bernàrt",
+    "place": "village",
+    "wikidata": "Q18482632"
+  }
+},
+{
+  "type": "node",
+  "id": 339809395,
+  "tags": {
+    "name": "Santa Giuliana",
+    "place": "village",
+    "wikidata": "Q18510471"
+  }
+},
+{
+  "type": "node",
+  "id": 359920985,
+  "tags": {
+    "name": "Vela",
+    "place": "village",
+    "population": "963",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18483624"
+  }
+},
+{
+  "type": "node",
+  "id": 363580243,
+  "tags": {
+    "name": "Tavon",
+    "name:it": "Tavon",
+    "name:lld": "Taón",
+    "place": "village",
+    "wikidata": "Q43554358"
+  }
+},
+{
+  "type": "node",
+  "id": 366869323,
+  "tags": {
+    "name": "Monte Terlago",
+    "place": "village",
+    "population": "400",
+    "wikidata": "Q3862060",
+    "wikipedia": "it:Monte Terlago"
+  }
+},
+{
+  "type": "node",
+  "id": 370116747,
+  "tags": {
+    "name": "Savignano",
+    "place": "village",
+    "wikidata": "Q18482876"
+  }
+},
+{
+  "type": "node",
+  "id": 387487311,
+  "tags": {
+    "name": "Varignano",
+    "place": "village",
+    "wikidata": "Q101208605"
+  }
+},
+{
+  "type": "node",
+  "id": 389016464,
+  "tags": {
+    "name": "Salter",
+    "name:it": "Salter",
+    "name:lld": "Sàuter",
+    "place": "village",
+    "wikidata": "Q18482616",
+    "wikipedia": "it:Salter"
+  }
+},
+{
+  "type": "node",
+  "id": 410422024,
+  "tags": {
+    "loc_name": "Roncafòrt",
+    "name": "Roncafort",
+    "place": "village",
+    "wikidata": "Q33662103"
+  }
+},
+{
+  "type": "node",
+  "id": 417065969,
+  "tags": {
+    "ele": "605",
+    "loc_name": "Sers",
+    "name": "Serso",
+    "place": "village",
+    "population": "425",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q2800508",
+    "wikipedia": "it:Serso"
+  }
+},
+{
+  "type": "node",
+  "id": 417284287,
+  "tags": {
+    "ele": "603",
+    "loc_name": "Caneza",
+    "name": "Canezza",
+    "name:it": "Canezza",
+    "name:mhn": "Kaneitsch",
+    "place": "village",
+    "population": "566",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18478813"
+  }
+},
+{
+  "type": "node",
+  "id": 432437933,
+  "tags": {
+    "name": "Cologna",
+    "place": "village",
+    "population": "198",
+    "wikidata": "Q18479092"
+  }
+},
+{
+  "type": "node",
+  "id": 441929512,
+  "tags": {
+    "ele": "285",
+    "loc_name": "Presàn",
+    "name": "Pressano",
+    "place": "village",
+    "population": "535",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18482268",
+    "wikipedia": "it:Pressano"
+  }
+},
+{
+  "type": "node",
+  "id": 457943320,
+  "tags": {
+    "loc_name": "Ole",
+    "name": "Olle",
+    "place": "village",
+    "wikidata": "Q3881886",
+    "wikipedia": "it:Olle"
+  }
+},
+{
+  "type": "node",
+  "id": 462128321,
+  "tags": {
+    "name": "Borzago",
+    "place": "village",
+    "wikidata": "Q24941313",
+    "wikipedia": "it:Borzago"
+  }
+},
+{
+  "type": "node",
+  "id": 469856779,
+  "tags": {
+    "name": "Storo",
+    "place": "village",
+    "population": "4620",
+    "source": "Comune di Storo",
+    "wikidata": "Q30030931"
+  }
+},
+{
+  "type": "node",
+  "id": 469869135,
+  "tags": {
+    "name": "Darzo",
+    "place": "village",
+    "wikidata": "Q3702885",
+    "wikipedia": "it:Darzo"
+  }
+},
+{
+  "type": "node",
+  "id": 469869136,
+  "tags": {
+    "name": "Lodrone",
+    "place": "village",
+    "wikidata": "Q3836397",
+    "wikipedia": "it:Lodrone (Storo)"
+  }
+},
+{
+  "type": "node",
+  "id": 469870102,
+  "tags": {
+    "name": "Riccomassimo",
+    "place": "village",
+    "wikidata": "Q3934692",
+    "wikipedia": "it:Riccomassimo"
+  }
+},
+{
+  "type": "node",
+  "id": 470000985,
+  "tags": {
+    "alt_name:it": "Fierozzo di Fuori",
+    "alt_name:mhn": "Ausservlarötz",
+    "name": "Auserpèrg - San Francesco",
+    "name:it": "San Francesco",
+    "name:mhn": "Auserpèrg",
+    "place": "village",
+    "population": "27",
+    "wikidata": "Q18482648"
+  }
+},
+{
+  "type": "node",
+  "id": 474782106,
+  "tags": {
+    "name": "Zivignago",
+    "place": "village",
+    "wikidata": "Q4024587",
+    "wikipedia": "it:Zivignago"
+  }
+},
+{
+  "type": "node",
+  "id": 474986874,
+  "tags": {
+    "ele": "678",
+    "name": "Viarago",
+    "name:it": "Viarago",
+    "old_name:de": "Vierach",
+    "place": "village",
+    "population": "498",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q4011023",
+    "wikipedia": "it:Viarago"
+  }
+},
+{
+  "type": "node",
+  "id": 477321770,
+  "tags": {
+    "name": "Centrale",
+    "place": "village",
+    "wikidata": "Q18478867"
+  }
+},
+{
+  "type": "node",
+  "id": 480677876,
+  "tags": {
+    "name": "Ca' Rossa",
+    "place": "village",
+    "source": "Comune di Storo",
+    "wikidata": "Q18478772"
+  }
+},
+{
+  "type": "node",
+  "id": 485360490,
+  "tags": {
+    "name": "Ravina",
+    "place": "village",
+    "wikidata": "Q3930585",
+    "wikipedia": "it:Ravina (Trento)"
+  }
+},
+{
+  "type": "node",
+  "id": 495210889,
+  "tags": {
+    "ele": "761",
+    "name": "Locca",
+    "place": "village",
+    "population": "255",
+    "wikidata": "Q18480344"
+  }
+},
+{
+  "type": "node",
+  "id": 498427674,
+  "tags": {
+    "ele": "787",
+    "name": "Lenzumo",
+    "place": "village",
+    "population": "317",
+    "wikidata": "Q18480277"
+  }
+},
+{
+  "type": "node",
+  "id": 510190803,
+  "tags": {
+    "name": "Sant'Alessandro",
+    "place": "village",
+    "wikidata": "Q101848180"
+  }
+},
+{
+  "type": "node",
+  "id": 546156265,
+  "tags": {
+    "name": "Ville",
+    "place": "village",
+    "population": "415",
+    "wikidata": "Q18483793",
+    "wikipedia": "it:Ville di Giovo"
+  }
+},
+{
+  "type": "node",
+  "id": 546157459,
+  "tags": {
+    "name": "Palù",
+    "place": "village",
+    "population": "537",
+    "wikidata": "Q1865001",
+    "wikipedia": "it:Palù di Giovo"
+  }
+},
+{
+  "type": "node",
+  "id": 552913512,
+  "tags": {
+    "name": "Sevignano",
+    "place": "village",
+    "population": "248",
+    "wikidata": "Q17256651",
+    "wikipedia": "it:Sevignano"
+  }
+},
+{
+  "type": "node",
+  "id": 559252023,
+  "tags": {
+    "name": "Baitoni",
+    "place": "village",
+    "wikidata": "Q18478672"
+  }
+},
+{
+  "type": "node",
+  "id": 656413972,
+  "tags": {
+    "loc_name": "Brosìn",
+    "name": "Brusino",
+    "place": "village",
+    "reg_name": "Brusìn",
+    "wikidata": "Q18478762"
+  }
+},
+{
+  "type": "node",
+  "id": 674037294,
+  "tags": {
+    "name": "Breguzzo",
+    "place": "village",
+    "population": "545",
+    "wikidata": "Q246647",
+    "wikipedia": "it:Breguzzo"
+  }
+},
+{
+  "type": "node",
+  "id": 676868542,
+  "tags": {
+    "name": "Luch",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 676868707,
+  "tags": {
+    "loc_name": "Stravìn",
+    "name": "Stravino",
+    "place": "village",
+    "wikidata": "Q18483159"
+  }
+},
+{
+  "type": "node",
+  "id": 676897673,
+  "tags": {
+    "loc_name": "Masi",
+    "name": "Masi di Vigo",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 685822808,
+  "tags": {
+    "loc_name": "Vich",
+    "name": "Vigo Cavedine",
+    "place": "village",
+    "wikidata": "Q18483718"
+  }
+},
+{
+  "type": "node",
+  "id": 748751976,
+  "tags": {
+    "ele": "817",
+    "name": "Caoria",
+    "place": "village",
+    "population": "371",
+    "wikidata": "Q18478814"
+  }
+},
+{
+  "type": "node",
+  "id": 848813091,
+  "tags": {
+    "name": "Toss",
+    "name:it": "Toss",
+    "name:lld": "Tós",
+    "place": "village",
+    "population": "255",
+    "wikidata": "Q18483411"
+  }
+},
+{
+  "type": "node",
+  "id": 848813094,
+  "tags": {
+    "alt_name:lld": "Masi da Vic",
+    "name": "Masi di Vigo",
+    "name:it": "Masi di Vigo",
+    "name:lld": "I Masi",
+    "place": "village",
+    "population": "131",
+    "short_name:lld": "Masi",
+    "wikidata": "Q18480658"
+  }
+},
+{
+  "type": "node",
+  "id": 863738650,
+  "tags": {
+    "loc_name": "Vigol",
+    "name": "Vigolo Vattaro",
+    "place": "village",
+    "population": "1779",
+    "wikidata": "Q327965",
+    "wikipedia": "it:Vigolo Vattaro"
+  }
+},
+{
+  "type": "node",
+  "id": 864550532,
+  "tags": {
+    "ele": "208",
+    "loc_name": "Nave",
+    "name": "Nave San Felice",
+    "place": "village",
+    "population": "446",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18481358",
+    "wikipedia": "it:Nave San Felice"
+  }
+},
+{
+  "type": "node",
+  "id": 869557715,
+  "tags": {
+    "name": "Quetta",
+    "name:it": "Quetta",
+    "name:lld": "Chèta",
+    "place": "village",
+    "wikidata": "Q18482313"
+  }
+},
+{
+  "type": "node",
+  "id": 869558024,
+  "tags": {
+    "name": "Dercolo",
+    "name:it": "Dercolo",
+    "name:lld": "Dércol",
+    "place": "village",
+    "wikidata": "Q18479410"
+  }
+},
+{
+  "type": "node",
+  "id": 869558053,
+  "tags": {
+    "name": "Lover",
+    "name:it": "Lover",
+    "name:lld": "Lóer",
+    "place": "village",
+    "wikidata": "Q18480408"
+  }
+},
+{
+  "type": "node",
+  "id": 874391049,
+  "tags": {
+    "name": "Piazzola",
+    "name:it": "Piazzola",
+    "name:lld": "Plazölå",
+    "place": "village",
+    "wikidata": "Q18510464"
+  }
+},
+{
+  "type": "node",
+  "id": 889275998,
+  "tags": {
+    "name": "Grumo",
+    "place": "village",
+    "wikidata": "Q48807808"
+  }
+},
+{
+  "type": "node",
+  "id": 889464668,
+  "tags": {
+    "loc_name": "Gardol",
+    "name": "Gardolo",
+    "place": "village",
+    "wikidata": "Q1494149",
+    "wikipedia": "it:Gardolo"
+  }
+},
+{
+  "type": "node",
+  "id": 890901789,
+  "tags": {
+    "name": "Sorni",
+    "place": "village",
+    "wikidata": "Q2303443",
+    "wikipedia": "it:Sorni"
+  }
+},
+{
+  "type": "node",
+  "id": 894388401,
+  "tags": {
+    "ele": "1250",
+    "gfoss_id": "22799",
+    "istat_id": "2147483647",
+    "name": "Serrada",
+    "place": "village",
+    "population": "214",
+    "postal_code": "38064",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q18482964"
+  }
+},
+{
+  "type": "node",
+  "id": 903096866,
+  "tags": {
+    "loc_name": "Vigo Meàn",
+    "name": "Vigo Meano",
+    "place": "village",
+    "population": "871",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18483706",
+    "wikipedia": "it:Vigo Meano"
+  }
+},
+{
+  "type": "node",
+  "id": 917109643,
+  "tags": {
+    "name": "Gionghi",
+    "place": "village",
+    "population": "483",
+    "wikidata": "Q104214003"
+  }
+},
+{
+  "type": "node",
+  "id": 937802075,
+  "tags": {
+    "loc_name": "Brüsàch",
+    "name": "Brusago",
+    "place": "village",
+    "wikidata": "Q3645999",
+    "wikipedia": "it:Brusago"
+  }
+},
+{
+  "type": "node",
+  "id": 959515220,
+  "tags": {
+    "loc_name": "Vila",
+    "name": "Villa",
+    "place": "village",
+    "wikidata": "Q86687267"
+  }
+},
+{
+  "type": "node",
+  "id": 982051012,
+  "tags": {
+    "alt_name": "Peio Terme",
+    "name": "Peio Fonti",
+    "place": "village",
+    "wikidata": "Q18481664"
+  }
+},
+{
+  "type": "node",
+  "id": 1105236644,
+  "tags": {
+    "alt_name": "Torbole sul Garda",
+    "loc_name": "Torbol",
+    "name": "Torbole",
+    "name:lmo": "Tùrbule",
+    "place": "village",
+    "population": "2895",
+    "wikidata": "Q23912980",
+    "wikimedia_commons": "File:Torbole_from_above.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 1141378762,
+  "tags": {
+    "name": "Sant'Agnese",
+    "place": "village",
+    "wikidata": "Q18510472"
+  }
+},
+{
+  "type": "node",
+  "id": 1153236252,
+  "tags": {
+    "loc_name": "Ronzegno",
+    "name": "Roncegno Terme",
+    "name:cim": "Rontschòi",
+    "name:it": "Roncegno Terme",
+    "name:mhn": "Rontschai'",
+    "place": "village",
+    "population": "2879",
+    "wikidata": "Q300962",
+    "wikipedia": "it:Roncegno Terme"
+  }
+},
+{
+  "type": "node",
+  "id": 1169656330,
+  "tags": {
+    "ele": "1004",
+    "name": "Larzana",
+    "place": "village",
+    "population": "141",
+    "wikidata": "Q18480220"
+  }
+},
+{
+  "type": "node",
+  "id": 1181156655,
+  "tags": {
+    "gfoss_id": "2955",
+    "loc_name": "Garniga",
+    "name": "Garniga Terme",
+    "place": "village",
+    "population": "384",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q18479921"
+  }
+},
+{
+  "type": "node",
+  "id": 1187757106,
+  "tags": {
+    "name": "Casatta",
+    "place": "village",
+    "wikidata": "Q18478829"
+  }
+},
+{
+  "type": "node",
+  "id": 1203631879,
+  "tags": {
+    "name": "Tomaselli",
+    "place": "village",
+    "wikidata": "Q86687710",
+    "wikipedia": "it:Tomaselli (Italia)"
+  }
+},
+{
+  "type": "node",
+  "id": 1204785898,
+  "tags": {
+    "loc_name": "Matarèl",
+    "name": "Mattarello",
+    "place": "village",
+    "population": "5214",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q2095712",
+    "wikipedia": "it:Mattarello (Trento)"
+  }
+},
+{
+  "type": "node",
+  "id": 1215858565,
+  "tags": {
+    "alt_name:lld": "Preghéna",
+    "ele": "807",
+    "name": "Preghena",
+    "name:it": "Preghena",
+    "name:lld": "Pregjéna",
+    "old_name:de": "Pregein",
+    "place": "village",
+    "wikidata": "Q3910219",
+    "wikipedia": "it:Preghena"
+  }
+},
+{
+  "type": "node",
+  "id": 1215914091,
+  "tags": {
+    "name": "Migazzone",
+    "place": "village",
+    "wikidata": "Q96474792"
+  }
+},
+{
+  "type": "node",
+  "id": 1215920354,
+  "tags": {
+    "name": "Mocenigo",
+    "name:it": "Mocenigo",
+    "name:lld": "Mosanic",
+    "place": "village",
+    "population": "235",
+    "wikidata": "Q18480993"
+  }
+},
+{
+  "type": "node",
+  "id": 1270823109,
+  "tags": {
+    "name": "Malgolo",
+    "name:it": "Malgolo",
+    "name:lld": "Màlgol",
+    "place": "village",
+    "wikidata": "Q3843909",
+    "wikipedia": "it:Malgolo"
+  }
+},
+{
+  "type": "node",
+  "id": 1277582805,
+  "tags": {
+    "name": "Casez",
+    "name:it": "Casez",
+    "name:lld": "Ciadièz",
+    "place": "village",
+    "population": "247",
+    "wikidata": "Q3661740",
+    "wikipedia": "it:Casez"
+  }
+},
+{
+  "type": "node",
+  "id": 1277582831,
+  "tags": {
+    "name": "Banco",
+    "name:it": "Banco",
+    "name:lld": "Banc",
+    "place": "village",
+    "population": "318",
+    "wikidata": "Q18478676"
+  }
+},
+{
+  "type": "node",
+  "id": 1283835804,
+  "tags": {
+    "name": "Fiavé",
+    "place": "village",
+    "population": "1117",
+    "wikidata": "Q30025694"
+  }
+},
+{
+  "type": "node",
+  "id": 1290188543,
+  "tags": {
+    "ele": "1061",
+    "name": "Sagron",
+    "place": "village",
+    "population": "48",
+    "wikidata": "Q18482589"
+  }
+},
+{
+  "type": "node",
+  "id": 1293135875,
+  "tags": {
+    "name": "Dermulo",
+    "name:it": "Dermulo",
+    "name:lld": "Dermul",
+    "place": "village",
+    "population": "200",
+    "wikidata": "Q3705881",
+    "wikipedia": "it:Dermulo"
+  }
+},
+{
+  "type": "node",
+  "id": 1293493167,
+  "tags": {
+    "ele": "1173",
+    "gfoss_id": "23092",
+    "istat_id": "2147483647",
+    "name": "Cogolo",
+    "name:it": "Cogolo",
+    "name:lld": "Cogol",
+    "place": "village",
+    "population": "734",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q3682419",
+    "wikipedia": "it:Cogolo"
+  }
+},
+{
+  "type": "node",
+  "id": 1295051314,
+  "tags": {
+    "name": "Pavillo",
+    "name:it": "Pavillo",
+    "name:lld": "Paìl",
+    "place": "village",
+    "population": "321",
+    "wikidata": "Q18481640",
+    "wikipedia": "it:Pavillo"
+  }
+},
+{
+  "type": "node",
+  "id": 1295051382,
+  "tags": {
+    "name": "Rallo",
+    "name:it": "Rallo",
+    "name:lld": "Ral",
+    "place": "village",
+    "wikidata": "Q50931331"
+  }
+},
+{
+  "type": "node",
+  "id": 1304204880,
+  "tags": {
+    "ele": "875",
+    "gfoss_id": "22697",
+    "istat_id": "2147483647",
+    "name": "Almazzago",
+    "name:it": "Almazzago",
+    "name:lld": "Darmazàch",
+    "place": "village",
+    "population": "339",
+    "wikidata": "Q13429115"
+  }
+},
+{
+  "type": "node",
+  "id": 1348395134,
+  "tags": {
+    "name": "Valcanover",
+    "place": "village",
+    "wikidata": "Q18483484"
+  }
+},
+{
+  "type": "node",
+  "id": 1359000278,
+  "tags": {
+    "ele": "423",
+    "gfoss_id": "23237",
+    "istat_id": "2147483647",
+    "name": "Marter",
+    "place": "village",
+    "population": "766",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q18480577",
+    "wikipedia": "it:Marter"
+  }
+},
+{
+  "type": "node",
+  "id": 1390205098,
+  "tags": {
+    "loc_name": "Caliàm",
+    "name": "Calliano",
+    "old_name:de": "Roßbach",
+    "place": "village",
+    "population": "1807",
+    "reg_name": "Caliàn",
+    "wikidata": "Q257694",
+    "wikipedia": "it:Calliano (Trentino-Alto Adige)"
+  }
+},
+{
+  "type": "node",
+  "id": 1393673270,
+  "tags": {
+    "name": "Castello",
+    "name:it": "Castello",
+    "name:lld": "Castèl",
+    "place": "village",
+    "wikidata": "Q3662297"
+  }
+},
+{
+  "type": "node",
+  "id": 1395839912,
+  "tags": {
+    "name": "Lenzima",
+    "place": "village",
+    "wikidata": "Q18509366",
+    "wikipedia": "it:Lenzima"
+  }
+},
+{
+  "type": "node",
+  "id": 1431638691,
+  "tags": {
+    "name": "Sant'Antonio di Mavignola",
+    "place": "village",
+    "wikidata": "Q16600228",
+    "wikipedia": "it:Sant'Antonio di Mavignola"
+  }
+},
+{
+  "type": "node",
+  "id": 1481197751,
+  "tags": {
+    "name": "Presson",
+    "place": "village",
+    "population": "333",
+    "postal_code": "38020",
+    "source": "local_knowledge",
+    "wikidata": "Q22056464"
+  }
+},
+{
+  "type": "node",
+  "id": 1520987108,
+  "tags": {
+    "loc_name": "Vila",
+    "name": "Villa Lagarina",
+    "place": "village",
+    "population": "3778",
+    "wikidata": "Q30031776"
+  }
+},
+{
+  "type": "node",
+  "id": 1533884128,
+  "tags": {
+    "loc_name": "San Roch",
+    "name": "San Rocco",
+    "place": "village",
+    "wikidata": "Q96608407"
+  }
+},
+{
+  "type": "node",
+  "id": 1583824514,
+  "tags": {
+    "alt_name": "Iavrè",
+    "name": "Javrè",
+    "place": "village",
+    "population": "315",
+    "wikidata": "Q18480139",
+    "wikipedia": "it:Javrè"
+  }
+},
+{
+  "type": "node",
+  "id": 1754696711,
+  "tags": {
+    "ele": "152",
+    "gfoss_id": "22358",
+    "istat_id": "2147483647",
+    "loc_name": "Sabonera",
+    "name": "Sabbionara",
+    "place": "village",
+    "population": "1186",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q3944270",
+    "wikipedia": "it:Sabbionara"
+  }
+},
+{
+  "type": "node",
+  "id": 1761478383,
+  "tags": {
+    "ele": "746",
+    "loc_name": "Ranz",
+    "name": "Ranzo",
+    "place": "village",
+    "population": "394",
+    "wikidata": "Q18482338"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353054,
+  "tags": {
+    "name": "Castellano",
+    "place": "village",
+    "population": "676",
+    "wikidata": "Q985406",
+    "wikipedia": "it:Castellano (Villa Lagarina)"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353055,
+  "tags": {
+    "gfoss_id": "2962",
+    "name": "Isera",
+    "place": "village",
+    "population": "2469",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q290754",
+    "wikipedia": "it:Isera"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353056,
+  "tags": {
+    "name": "Manzano",
+    "place": "village",
+    "wikidata": "Q18480511"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353057,
+  "tags": {
+    "name": "Marano",
+    "place": "village",
+    "population": "316",
+    "wikidata": "Q18480518"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353060,
+  "tags": {
+    "name": "Molini",
+    "place": "village",
+    "wikidata": "Q102520140"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353076,
+  "tags": {
+    "name": "Nogaredo",
+    "place": "village",
+    "population": "1220",
+    "wikidata": "Q175406",
+    "wikipedia": "it:Nogaredo"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353080,
+  "tags": {
+    "name": "Nomesino",
+    "place": "village",
+    "wikidata": "Q18481415"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353081,
+  "tags": {
+    "loc_name": "Presàm",
+    "name": "Pedersano",
+    "place": "village",
+    "population": "957",
+    "wikidata": "Q18481650",
+    "wikipedia": "it:Pedersano"
+  }
+},
+{
+  "type": "node",
+  "id": 1778353082,
+  "tags": {
+    "name": "Piazzo",
+    "place": "village",
+    "population": "425",
+    "wikidata": "Q102076855"
+  }
+},
+{
+  "type": "node",
+  "id": 1796357580,
+  "tags": {
+    "name": "Fisto",
+    "place": "village",
+    "wikidata": "Q48807801"
+  }
+},
+{
+  "type": "node",
+  "id": 1796357582,
+  "tags": {
+    "name": "Madonna di Campiglio",
+    "name:de": "Sankt Maria im Pein",
+    "place": "village",
+    "population": "656",
+    "wikidata": "Q952929",
+    "wikipedia": "it:Madonna di Campiglio"
+  }
+},
+{
+  "type": "node",
+  "id": 1803712418,
+  "tags": {
+    "alt_name:it": "Monzon",
+    "name": "Muncion",
+    "name:it": "Muncion",
+    "name:lld": "Muncion",
+    "place": "village",
+    "wikidata": "Q18481288"
+  }
+},
+{
+  "type": "node",
+  "id": 1831140724,
+  "tags": {
+    "name": "Lesi",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 1831140725,
+  "tags": {
+    "name": "Moscheri",
+    "place": "village",
+    "population": "358",
+    "wikidata": "Q18481264"
+  }
+},
+{
+  "type": "node",
+  "id": 1836292156,
+  "tags": {
+    "ele": "236",
+    "loc_name": "Teze",
+    "name": "Tezze Valsugana",
+    "place": "village",
+    "population": "731",
+    "source": "ISTAT - Censimento 2011",
+    "wikidata": "Q18483321",
+    "wikipedia": "it:Tezze (Grigno)"
+  }
+},
+{
+  "type": "node",
+  "id": 1841546752,
+  "tags": {
+    "name": "Valle San Felice",
+    "place": "village",
+    "wikidata": "Q16620275",
+    "wikipedia": "it:Valle San Felice"
+  }
+},
+{
+  "type": "node",
+  "id": 1858237074,
+  "tags": {
+    "name": "Daone",
+    "place": "village",
+    "population": "572",
+    "wikidata": "Q270373",
+    "wikipedia": "it:Daone"
+  }
+},
+{
+  "type": "node",
+  "id": 1919210128,
+  "tags": {
+    "ele": "235",
+    "gfoss_id": "23571",
+    "istat_id": "2147483647",
+    "loc_name": "Romagnàn",
+    "name": "Romagnano",
+    "place": "village",
+    "population": "1272",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q18482419"
+  }
+},
+{
+  "type": "node",
+  "id": 1920147578,
+  "tags": {
+    "loc_name": "Besenèl",
+    "name": "Besenello",
+    "place": "village",
+    "population": "2654",
+    "wikidata": "Q30022795"
+  }
+},
+{
+  "type": "node",
+  "id": 1922084004,
+  "tags": {
+    "name": "Vigo Lomaso",
+    "place": "village",
+    "population": "243",
+    "wikidata": "Q18483702",
+    "wikipedia": "it:Vigo Lomaso"
+  }
+},
+{
+  "type": "node",
+  "id": 1992960542,
+  "tags": {
+    "ele": "1279",
+    "gfoss_id": "22798",
+    "istat_id": "2147483647",
+    "name": "San Sebastiano",
+    "place": "village",
+    "population": "235",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q18482722"
+  }
+},
+{
+  "type": "node",
+  "id": 2000025397,
+  "tags": {
+    "name": "Mollaro",
+    "name:it": "Mollaro",
+    "name:lld": "Molar",
+    "place": "village",
+    "population": "382",
+    "wikidata": "Q16579207",
+    "wikipedia": "it:Mollaro"
+  }
+},
+{
+  "type": "node",
+  "id": 2000025401,
+  "tags": {
+    "name": "Priò",
+    "name:it": "Priò",
+    "name:lld": "Priò",
+    "place": "village",
+    "population": "272",
+    "wikidata": "Q3922205",
+    "wikipedia": "it:Priò"
+  }
+},
+{
+  "type": "node",
+  "id": 2000025404,
+  "tags": {
+    "alt_name:lld": "Séign",
+    "name": "Segno",
+    "name:it": "Segno",
+    "name:lld": "Ségn",
+    "place": "village",
+    "population": "651",
+    "wikidata": "Q18482908"
+  }
+},
+{
+  "type": "node",
+  "id": 2094692336,
+  "tags": {
+    "name": "Saccone",
+    "place": "village",
+    "wikidata": "Q18482549"
+  }
+},
+{
+  "type": "node",
+  "id": 2194523293,
+  "tags": {
+    "name": "Pergolese",
+    "place": "village",
+    "population": "382",
+    "wikidata": "Q18481737"
+  }
+},
+{
+  "type": "node",
+  "id": 2269891807,
+  "tags": {
+    "alt_name": "Chirano di Arco",
+    "name": "Chiarano",
+    "place": "village",
+    "wikidata": "Q101146630"
+  }
+},
+{
+  "type": "node",
+  "id": 2269891808,
+  "tags": {
+    "name": "Vigne",
+    "place": "village",
+    "wikidata": "Q101158277"
+  }
+},
+{
+  "type": "node",
+  "id": 2332445306,
+  "tags": {
+    "loc_name": "Pilcànt",
+    "name": "Pilcante",
+    "place": "village",
+    "wikidata": "Q3904968",
+    "wikipedia": "it:Pilcante"
+  }
+},
+{
+  "type": "node",
+  "id": 2370292385,
+  "tags": {
+    "name": "Bersone",
+    "place": "village",
+    "population": "288",
+    "wikidata": "Q244059",
+    "wikipedia": "it:Bersone"
+  }
+},
+{
+  "type": "node",
+  "id": 2370292386,
+  "tags": {
+    "name": "Praso",
+    "place": "village",
+    "population": "309",
+    "wikidata": "Q300006",
+    "wikipedia": "it:Praso"
+  }
+},
+{
+  "type": "node",
+  "id": 2399187097,
+  "tags": {
+    "name": "Cavrasto",
+    "place": "village",
+    "wikidata": "Q18478860"
+  }
+},
+{
+  "type": "node",
+  "id": 2428430234,
+  "tags": {
+    "name": "Carciato",
+    "name:it": "Carciato",
+    "name:lld": "Carcià",
+    "place": "village",
+    "wikidata": "Q2137682",
+    "wikipedia": "it:Carciato"
+  }
+},
+{
+  "type": "node",
+  "id": 2621354975,
+  "tags": {
+    "name": "Besagno",
+    "place": "village",
+    "wikidata": "Q18478709"
+  }
+},
+{
+  "type": "node",
+  "id": 2621354978,
+  "tags": {
+    "gfoss_id": "2890",
+    "loc_name": "Brentonech",
+    "name": "Brentonico",
+    "place": "village",
+    "population": "3620",
+    "source": "geodati.gfoss.it",
+    "wikidata": "Q30023126"
+  }
+},
+{
+  "type": "node",
+  "id": 2621354984,
+  "tags": {
+    "name": "Castione",
+    "place": "village",
+    "wikidata": "Q18478847"
+  }
+},
+{
+  "type": "node",
+  "id": 2621354987,
+  "tags": {
+    "name": "Cazzano",
+    "place": "village",
+    "wikidata": "Q18478861"
+  }
+},
+{
+  "type": "node",
+  "id": 2621354992,
+  "tags": {
+    "loc_name": "Chizola",
+    "name": "Chizzola",
+    "place": "village",
+    "wikidata": "Q18478908"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355008,
+  "tags": {
+    "name": "Corné",
+    "place": "village",
+    "wikidata": "Q3693804",
+    "wikipedia": "it:Corné (Brentonico)"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355017,
+  "tags": {
+    "name": "Crosano",
+    "place": "village",
+    "wikidata": "Q18479271"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355040,
+  "tags": {
+    "name": "Fontechel",
+    "place": "village",
+    "source": "geodati.gfoss.it"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355055,
+  "tags": {
+    "name": "Prada",
+    "place": "village",
+    "wikidata": "Q18482151"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355078,
+  "tags": {
+    "loc_name": "Santa Margarita",
+    "name": "Santa Margherita",
+    "name:ru": "Санта-Маргерита",
+    "place": "village",
+    "wikidata": "Q18482781",
+    "wikipedia": "it:Santa Margherita (Ala)"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355085,
+  "tags": {
+    "loc_name": "Seravàl",
+    "name": "Serravalle all'Adige",
+    "place": "village",
+    "wikidata": "Q2491248",
+    "wikipedia": "it:Serravalle (Ala)"
+  }
+},
+{
+  "type": "node",
+  "id": 2621355090,
+  "tags": {
+    "name": "Sorne",
+    "place": "village",
+    "wikidata": "Q18483050"
+  }
+},
+{
+  "type": "node",
+  "id": 2626943157,
+  "tags": {
+    "loc_name": "March",
+    "name": "Marco",
+    "place": "village",
+    "population": "2659",
+    "wikidata": "Q3845856",
+    "wikipedia": "it:Marco (Rovereto)"
+  }
+},
+{
+  "type": "node",
+  "id": 2628195252,
+  "tags": {
+    "name": "Reviano",
+    "place": "village",
+    "wikidata": "Q3933930",
+    "wikipedia": "it:Reviano"
+  }
+},
+{
+  "type": "node",
+  "id": 2659785803,
+  "tags": {
+    "ele": "785",
+    "istat_id": "2147483647",
+    "name": "Piazza",
+    "place": "village",
+    "population": "292",
+    "wikidata": "Q3902132",
+    "wikipedia": "it:Piazza (Terragnolo)"
+  }
+},
+{
+  "type": "node",
+  "id": 2742429199,
+  "tags": {
+    "loc_name": "Noréi",
+    "name": "Noriglio",
+    "name:cim": "Orill",
+    "place": "village",
+    "wikidata": "Q3878418",
+    "wikipedia": "it:Noriglio"
+  }
+},
+{
+  "type": "node",
+  "id": 3132160843,
+  "tags": {
+    "name": "Canale",
+    "place": "village",
+    "wikidata": "Q28671068"
+  }
+},
+{
+  "type": "node",
+  "id": 3403700975,
+  "tags": {
+    "ele": "850",
+    "name": "Mestriago",
+    "name:it": "Mestriago",
+    "name:lld": "Mestriàch",
+    "place": "village",
+    "population": "163",
+    "wikidata": "Q13846545"
+  }
+},
+{
+  "type": "node",
+  "id": 3420327670,
+  "tags": {
+    "name": "Palai en Bersntol - Palù del Fersina",
+    "name:de": "Palai im Fersental",
+    "name:it": "Palù del Fersina",
+    "name:mhn": "Palai en Bersntol",
+    "place": "village",
+    "population": "173",
+    "wikidata": "Q30028581"
+  }
+},
+{
+  "type": "node",
+  "id": 3420413061,
+  "tags": {
+    "alt_name:it": "Fierozzo di Dentro",
+    "alt_name:mhn": "Innervlarötz",
+    "name": "Mitterpèrg - San Felice",
+    "name:it": "San Felice",
+    "name:mhn": "Mitterpèrg",
+    "place": "village",
+    "population": "67",
+    "wikidata": "Q18482643"
+  }
+},
+{
+  "type": "node",
+  "id": 3896647666,
+  "tags": {
+    "name": "Creto",
+    "place": "village",
+    "population": "804",
+    "wikidata": "Q298747",
+    "wikipedia": "it:Pieve di Bono"
+  }
+},
+{
+  "type": "node",
+  "id": 4192043507,
+  "tags": {
+    "name": "Paneveggio",
+    "place": "village",
+    "wikidata": "Q3893222",
+    "wikimedia_commons": "Category:Paneveggio",
+    "wikipedia": "it:Paneveggio"
+  }
+},
+{
+  "type": "node",
+  "id": 4311362989,
+  "tags": {
+    "name": "Pinzolo",
+    "place": "village",
+    "population": "3118",
+    "wikidata": "Q30028895"
+  }
+},
+{
+  "type": "node",
+  "id": 4392004005,
+  "tags": {
+    "name": "Predazzo",
+    "name:de": "Predazzo",
+    "name:it": "Predazzo",
+    "name:ru": "Предаццо",
+    "place": "village",
+    "population": "4530",
+    "website": "https://www.comune.predazzo.tn.it/",
+    "wikidata": "Q300010",
+    "wikimedia_commons": "Category:Predazzo",
+    "wikipedia": "it:Predazzo"
+  }
+},
+{
+  "type": "node",
+  "id": 4464079806,
+  "tags": {
+    "ele": "180",
+    "gfoss_id": "22310",
+    "istat_id": "2200110001",
+    "name": "Ala",
+    "place": "village",
+    "population": "4167",
+    "source": "Istat 2001 - geodati.gfoss.it",
+    "wikidata": "Q30022047"
+  }
+},
+{
+  "type": "node",
+  "id": 4464079813,
+  "tags": {
+    "name": "Bresimo",
+    "name:it": "Bresimo",
+    "name:lld": "Brésem",
+    "place": "village",
+    "population": "252",
+    "wikidata": "Q30023131"
+  }
+},
+{
+  "type": "node",
+  "id": 4464079823,
+  "tags": {
+    "loc_name": "Ivàn-Frazena",
+    "name": "Ivano-Fracena",
+    "place": "village",
+    "population": "329",
+    "wikidata": "Q291110",
+    "wikipedia": "it:Ivano-Fracena"
+  }
+},
+{
+  "type": "node",
+  "id": 4464079832,
+  "tags": {
+    "ele": "363",
+    "gfoss_id": "23546",
+    "istat_id": "2147483647",
+    "name": "Porte",
+    "place": "village",
+    "population": "358",
+    "wikidata": "Q18482034"
+  }
+},
+{
+  "type": "node",
+  "id": 6190363865,
+  "tags": {
+    "name": "Mortaso",
+    "place": "village",
+    "wikidata": "Q24941458",
+    "wikipedia": "it:Mortaso"
+  }
+},
+{
+  "type": "node",
+  "id": 6195338013,
+  "tags": {
+    "name": "Segonzano",
+    "place": "village",
+    "population": "1500",
+    "wikidata": "Q304120",
+    "wikipedia": "it:Segonzano"
+  }
+},
+{
+  "type": "node",
+  "id": 6655347153,
+  "tags": {
+    "addr:postcode": "38064",
+    "name": "Costa di Folgaria",
+    "place": "village",
+    "wikidata": "Q64935366"
+  }
+},
+{
+  "type": "node",
+  "id": 6746269840,
+  "tags": {
+    "name": "Tret",
+    "name:ce": "Трет",
+    "name:de": "Tret",
+    "name:it": "Tret",
+    "name:lld": "Trèt",
+    "name:sr": "Трет",
+    "name:tt": "Трет",
+    "place": "village",
+    "wikidata": "Q18483452",
+    "wikipedia": "it:Tret"
+  }
+},
+{
+  "type": "node",
+  "id": 6835458891,
+  "tags": {
+    "name": "Covelo",
+    "place": "village",
+    "wikidata": "Q106685242"
+  }
+},
+{
+  "type": "node",
+  "id": 7156374264,
+  "tags": {
+    "name": "Inderpèrg - San Felice",
+    "name:it": "San Felice",
+    "name:mhn": "Inderpèrg",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7157185900,
+  "tags": {
+    "name": "Auserpèrg - Frassilongo",
+    "name:it": "Frassilongo",
+    "name:mhn": "Auserpèrg",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 7157185901,
+  "tags": {
+    "name": "Inderpèrg - Frassilongo",
+    "name:it": "Frassilongo",
+    "name:mhn": "Inderpèrg",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 8570266977,
+  "tags": {
+    "name": "Baselga del Bondone",
+    "place": "village",
+    "wikidata": "Q3635588"
+  }
+},
+{
+  "type": "node",
+  "id": 8872038905,
+  "tags": {
+    "ele": "935",
+    "name": "Obra",
+    "place": "village",
+    "wikidata": "Q103477885"
+  }
+},
+{
+  "type": "node",
+  "id": 9249921605,
+  "tags": {
+    "name": "Marani",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 9933588514,
+  "tags": {
+    "name": "San Giovanni di Fassa - Sèn Jan",
+    "name:it": "San Giovanni di Fassa",
+    "name:lld": "Sèn Jan",
+    "place": "village",
+    "population": "3574",
+    "start_date": "2018-01-01"
+  }
+},
+{
+  "type": "node",
+  "id": 10069074639,
+  "tags": {
+    "name": "Pradibondo",
+    "place": "village",
+    "wikidata": "Q18482175"
+  }
+},
+{
+  "type": "node",
+  "id": 12471621172,
+  "tags": {
+    "name": "Karerpass - Jouf de Ciareja - passo Carezza",
+    "name:de": "Karerpass",
+    "name:it": "passo Carezza",
+    "name:lad": "Jouf de Ciareja",
+    "place": "village"
+  }
+},
+{
+  "type": "node",
+  "id": 13419052772,
+  "tags": {
+    "name": "Vallarsa",
+    "place": "village",
+    "population": "1400",
+    "wikidata": "Q327644",
+    "wikipedia": "it:Vallarsa"
+  }
+}
+
+  ]
+}
